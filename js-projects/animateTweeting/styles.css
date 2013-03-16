@@ -1,0 +1,75 @@
+/* 2012 Tweeting */
+* { margin: 0; padding: 0;}
+
+body { font-family: Verdana, Arial, sans-serif; font-size: 16px; background: #000;}
+
+#main-container {
+	width: 100%;
+}
+
+#header, #content { 	
+	margin: 0 auto;
+	width: 990px;	
+}
+
+#content { 
+	position: relative;
+}
+
+#col-left {
+	position: relative;
+	z-index: 100;
+	float: left;
+	background: url(img/main-img-left.png) no-repeat; 
+	width: 578px; 
+	min-height: 450px;
+}
+
+#viewport { 
+	position: absolute;
+	right: 0;
+	z-index: -100;
+	overflow: hidden;
+	background: #f6f4f4 url(img/main-img-right.jpg) no-repeat; 
+	width: 663px;
+	height: 450px;
+}
+
+a { display: block; width: 100%; height: 100%;}
+
+.pin { position: absolute; z-index: 1;}
+
+.tweet {
+	opacity: 0;
+	position: absolute;
+	overflow: hidden;
+	bottom: 120px;
+	left: -80px;
+	background: url(img/tweet.png) no-repeat; 	
+	width: 337px;
+	height: 122px;
+}
+
+.pin-rowing {
+	background: url(img/pin_rowing.png) no-repeat; 
+	width: 100px;
+	height: 211px;
+	bottom: 40px;
+	left: -211px;
+}
+
+.pin-cycling {
+	background: url(img/pin_cycling.png) no-repeat; 
+	width: 100px;
+	height: 210px;
+	bottom: -32px;
+	left: -340px;
+}
+
+.pin-gym {
+	background: url(img/pin_gym.png) no-repeat; 
+	width: 100px;
+	height: 211px;
+	bottom: -40px;
+	left: -150px;
+}

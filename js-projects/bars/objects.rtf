@@ -1,0 +1,101 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;\f2\fmodern\fcharset0 Courier;
+}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww14320\viewh14900\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\ql\qnatural\pardirnatural
+
+\f0\b\fs28 \cf0 Ways of creating Objects
+\b0 \
+var rohan = \{\
+	eyes:  brown,\
+	hair: black\
+\}\
+\
+var rohan = new Object();\
+rohan.eyes = "brown";\
+rohan.black = "black";\
+\
+
+\b Methods
+\b0 \
+var bob = new Object();\
+bob.age = 30;\
+\
+// this time we have added a method, setAge\
+bob.setAge = function (newAge)\{\
+  bob.age = newAge;\
+\};\
+\
+bob.getYearOfBirth = function () \{\
+  return 2012 - bob.age;\
+\};\
+console.log(bob.getYearOfBirth());\
+\
+
+\b Methods 2
+\b0 \
+// here is our method to set the length\
+rectangle.setLength = function (newLength) \{\
+  this.length = newLength;\
+\};\
+\
+
+\b New way for creating Objects:\
+Constructor for creating Object and methods are within it.
+\b0 \
+function Rectangle(length, width) \{\
+  this.length = length;\
+  this.width = width;\
+  this.calcArea = function() \{\
+      return this.length * this.width;\
+  \};\
+  // put our perimeter function here!\
+    this.calcPerimeter = function()\{\
+        return  2 * this.length + 2 * this.width;\
+    \}  \
+\} \
+\
+var rex = new Rectangle(7,3);\
+var area = rex.calcArea();\
+var perimeter = rex.calcPerimeter();\
+\
+
+\b Loop throughout objects that are stored in an array
+\b0 \
+// Our Person constructor\
+function Person(name,age)\{\
+    var family = new Array();\
+    family[0] = new Person("alice", 40);\
+    family[1] = new Person("bob", 42);\
+    family[2] = new Person("michelle", 8);\
+    family[3] = new Person("timmy", 6);\
+\}\
+\
+// Now we can make an array of people\
+for(i=0; i<family.length; i++)\{\
+    console.log(family[i].name);\
+\}\
+\
+\
+********* Notes *********\
+\pard\pardeftab720\sa240\ql\qnatural
+
+\f1\b \cf0 To create
+\b0  an object using the rabbit constructor, we use the syntax:\
+\pard\pardeftab720\sa240\ql\qnatural
+
+\f2 \cf0 var objectName = new constructorName(value for each property);
+\f1 \
+\pard\pardeftab720\sa240\ql\qnatural
+
+\b \cf0 And to
+\b0  call the method, we use the syntax:\
+\pard\pardeftab720\sa240\ql\qnatural
+
+\f2 \cf0 objectName.methodName( );
+\f1\fs20 \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\ql\qnatural\pardirnatural
+
+\f0\fs28 \cf0 \
+}

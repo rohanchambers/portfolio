@@ -1,0 +1,67 @@
+/* Rohan Carousel */
+* { margin: 0; padding: 0;}
+
+#main-container {
+	width: auto;
+	height: auto;
+	margin: 0 auto;
+	background: #695850 url(img/bg.jpg) no-repeat;
+}
+
+#content { 	
+	margin: 0 auto;
+	padding: 10px;
+	width: 934px;
+	min-height: 964px;	
+}
+
+#lightbox { 
+	display: none;
+ 	position: absolute;
+ 	top: 0;
+ 	left: 0;
+ 	min-width: 100%;
+ 	min-height: 100%;
+ 	clear: both;
+	background: #000; 
+	opacity:0.9;  
+ 	filter:alpha(opacity=9);
+}
+#lightbox-panel { 
+	display: none;
+	position: fixed; 
+	top: 100px; 
+	left: 50%;
+	margin-left: -470px;
+	border: 2px solid #FFF;  
+}
+
+#description { 
+	position: absolute; 
+	top: -25px;
+	left: 0;
+	width: 200px; 
+	height: 15px; 
+	color: #FFF;
+}
+
+#close { 
+	position: absolute;;
+ 	top: -25px;
+ 	right: 0;	
+}
+
+a {
+ 	color: #FFF;
+ 	height: 20px;
+ 	text-decoration: underline;
+}
+
+a:hover { 
+	text-decoration: none;
+}
+
+#content ul { margin-top: 20px;}
+#content ul li { float: left; display: block; margin-right: 8px; list-style: none;}
+#content ul li img { border: 1px solid grey;}
+#content ul li img:hover { border: 1px solid #fff;}

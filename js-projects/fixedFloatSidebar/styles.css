@@ -1,0 +1,66 @@
+/* Rohan Carousel */
+* { margin: 0; padding: 0;}
+
+#main-container {
+	width: 100%;
+}
+
+#wrapper {
+	width: 800px;
+	height: auto;
+	clear: both;
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+#content { 	
+	margin: 0 auto;
+	width: 500px;	
+	float: left;
+}
+
+#sidebar-wrapper { 
+	position: relative; 
+	width: 250px; 
+	/* margin-left: 540px; */
+	float: right;
+}
+
+#sidebar {
+	position: absolute;
+	top: 0;
+	width: 250px;
+	height: 300px;
+	margin: 20px 0 0 0;
+	text-align: left;
+}
+
+#sidebar.fixed { 
+	width: 250px;
+	position: fixed; 
+	top: 0;
+}
+
+.text { 
+	margin-bottom: 100px;
+}
+
+a.arrow-down { 
+	width: 48px;
+	height: 45px;
+	display: block;
+	float: right;
+	margin-top: 10px;
+	text-indent: -9999px;
+	background: url(img/arrow.png) 0 -45px no-repeat;
+}
+
+a.arrow-up {
+	width: 48px;
+	height: 45px;
+	display: block;
+	float: right;
+	margin-top: 10px;
+	text-indent: -9999px;
+	background: url(img/arrow.png) 0 0 no-repeat;
+}

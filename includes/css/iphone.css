@@ -1,0 +1,98 @@
+/* iPhone (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	#scroll, #what-i-do, #latest-posts, #sites-i-follow, 
+	follow-me, #twitter, .captions, 
+	.tabs, .star-rating, .hr, #copyright img { display: none;}
+	
+	h1, h2, #contact h2:first-child { font-size: 7em;}
+	p, ul.bullets, ol { font-size: 4em;}
+	ul.bullets li { list-style-image: none; margin-left: 40px;}
+	ol { font-size: 2.5em}
+	.btn-global { background: #0074c0; font-size: 4em; display: block; float: left; padding: 15px; margin: 10px 0;}
+	.btn-global span { display: none;}
+	
+	#container { padding: 32px; width: 100%;}
+	#about, #skills, #contact { width: 100%; clear: both; margin-bottom: 50px;}
+	header, footer { height: auto; overflow: hidden; clear: both; margin: 0; padding: 0;}
+	header { margin-bottom: 50px; }
+	footer { padding: 0 30px;}
+	#carousel-viewport { border: none; width: 100%;}
+	#logo { margin: 0px; padding: 0;}
+	#logo a { margin: 0px; padding: 0; background-size: 100%; width: 400px; height: 125px;}
+	
+	nav { width: 100%; float: left; font-size: 2.3em; text-transform:uppercase;}
+	nav span { padding-top: 15px; font-size: .8em;}
+	nav ul li { margin: 0 14px 0 0; padding: 10px 20px; height: auto; width: auto;}
+	nav ul li.last { margin-right: 0;}
+	nav ul li a { background: none;}
+	#sharethis {  margin: -233px 5px 0 0;}
+	
+	#follow-me, #clients { float: left; width: 960px; margin-top: 50px;}
+	#follow-me img { width: 100px; height: 100px;}
+	#follow-me ul li img { margin-right: 25px;}
+	#clients ul li { width: 200px; height: 100px; margin: 0 10px 10px 0;}
+	#clients img { width: 200px; height: 100px; opacity: 1;}
+	
+	#contact h2 { font-size: 5.5em;}
+	#contact-list li a { line-height: 70px;}
+	#contact-list, .siteMap li { width: auto; font-size: 2.75em;}
+	#contact-list li { clear: both; width: 500px!important; height: 60px; padding-bottom: 55px;}
+	#contact-list li img { width: 75px; height: 75px;}
+	#lampost { background: none;}
+		
+	#portfolio p { width: 96%;}
+	#portfolio ul#filter-nav { height: auto; overflow: hidden; margin: 20px 0;}
+	#portfolio ul#filter-nav li a { font-size: 4em; background-color: #171922; color: #FFF; padding: 10px 20px; text-decoration: none!important;}
+	#portfolio li h3 { font-size: 2.5em; bottom: -80px; line-height: 1em;}
+	#portfolio ul#case-study li { width: 450px; height: 285px; margin-bottom: 100px; padding: 0; margin-right: 20px;}
+	#portfolio ul#case-study li img { width: 100%; height: 285px;}
+	
+	.contact #left-col p { width: 565px;}
+	.case-study #left-col, .case-study #right-col { display: block; width: 96%;}
+	.case-study #left-col h2 { margin: 0; float: none; font-size: 6em; font-weight: bold;}
+	.case-study #left-col ul { font-size: 2.56em;}
+	.case-study #left-col ul p { font-size: 1.3em;}
+	.case-study #right-col { float: none;}
+	.case-study #right-col ul li img { max-width: 100%;}
+
+	.case-study #left-col #controls { float: left; margin: 20px 0 75px 0;}
+	.case-study #left-col #controls li { margin-right: 40px;}
+	.case-study #left-col #controls li a {  width: 80px!important; height: 40px!important; line-height: 40px; padding: 10px 20px; font-size: 2.5em!important; background: none; background-color: #171922!important; color: #FFF!important; text-decoration: none; text-indent: -9999px!important;}
+	.case-study #left-col #controls li a.go-next, 
+	.case-study #left-col #controls li a.go-back, 
+	.case-study #left-col ul#controls li a.go-all,
+	.case-study #left-col #controls li a.go-next:hover, 
+	.case-study #left-col #controls li a.go-back:hover, 
+	.case-study #left-col ul#controls li a.go-all:hover { background-position: center -13px;}
+	#accessibility h3 { font-size: 6em;}
+	#accessibility { width: 100%;}
+	.accessibility ol li { margin-left: 30px;}
+	.accessibility ul li { font-size: 2.75em;}
+	
+	#left-col, #right-col { width: 100%; }
+	#left-col h2, #right-col h2 { margin-top: 50px; clear: both;}
+	#left-col h2 { float: left;}
+	#right-col h3 { font-size: 6em; font-weight: bold!important; margin-top: 10px;}
+	
+	footer { background: url(../../img/global/bg-footer.jpg);}
+	footer h2 { font-size: 6em;}
+	#tweet { width: 400px; font-size: 4.5em;}
+	#copyright { margin-top: 80px; font-size: .55em;}
+	
+	.btn-nxt {
+	    width: 100px!important;
+	    height: 100px!important;
+	    background: #0074c0!important;
+		border-radius:100px!important;
+		border:5px solid #FFF;	
+	}
+	
+	.btn-prev {
+	    width: 100px!important;
+	    height: 100px!important;
+	    background: #0074c0!important;
+		border-radius:100px!important; 
+		border:5px solid #FFF;		   
+	}
+
+}

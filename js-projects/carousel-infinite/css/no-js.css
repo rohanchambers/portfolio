@@ -1,0 +1,4 @@
+#carousel-container { overflow-y: scroll;}
+ul#carousel { height: 1600px; left: 0;}
+ul#carousel li { float: none;}
+#controls { display: none;}

@@ -1,0 +1,163 @@
+/* Rohan Carousel */
+* { margin: 0; padding: 0;}
+
+h1 { padding-top: 10px; font-family: arial; font-size: 18px; color: #FFF; font-weight: bold;}
+
+#main-container {
+	width: auto;
+	height: auto;
+	background: #695850 url(../img/bg.jpg) center center no-repeat;
+}
+
+#content { 	
+	margin: 0 auto;
+	width: 934px;
+	min-height: 964px;
+}
+
+	#content ul#thumbs { margin-top: 20px; width: 500px;}
+	#content ul#thumbs li { float: left; display: block; margin: 0 12px 5px 0; list-style: none;}
+	#content ul#thumbs li img { border: 1px solid grey;}
+	#content ul#thumbs li img:hover { border: 1px solid #fff;}
+
+#lightbox { 
+	display: none;
+ 	position: absolute;
+ 	top: 0;
+ 	left: 0;
+ 	min-width: 100%;
+ 	min-height: 100%;
+ 	clear: both;
+	background: #000; 
+	opacity:0.9;  
+ 	filter:alpha(opacity=9);
+ 	z-index: 100;
+}
+
+#lightbox-panel { 
+	display: none;
+	height: 526px;	
+	width: 934px;
+	position: relative; 
+	top: 100px; 
+	left: 50%;
+	margin-left: -470px;
+	border: 2px solid #FFF;  
+	z-index: 500;
+}
+
+#description { 
+	position: absolute; 
+	top: -25px;
+	left: 0;
+	width: 200px; 
+	height: 15px; 
+	color: #FFF;
+}
+
+#close { 
+	position: absolute;;
+ 	top: -25px;
+ 	right: 0;	
+}
+
+a {
+ 	color: #FFF;
+ 	height: 20px;
+ 	text-decoration: underline;
+}
+
+a:hover { 
+	text-decoration: none;
+}
+
+
+
+/* Carousel styles */
+#carousel-container {
+	width: 934px;
+	height: 526px;	
+	overflow: hidden;
+	position: relative;
+	z-index: 1000;
+}
+
+ul#carousel {
+	position: absolute;
+	z-index: 0;
+}
+
+	ul#carousel li {
+		width: 934px;
+		height: 526px;	
+		display: block;
+		float: left;
+		list-style: none;
+		background: #000;
+		color: #FFF;
+	}
+	
+#controls {
+	width: 934px;
+	height: 30px;
+	position: absolute;
+	z-index: 100;
+	top: 150px;
+	left:0;
+}	
+	
+	#controls a { 
+		width: 55px; 
+		height: 40px;
+		display: block; 
+		margin: 0 15px;  
+		line-height: 40px;
+		text-align: center;
+		text-decoration: none;
+		background: #288ee5;
+		color: #FFF;
+	}
+
+	#controls a:hover { 
+		color: #FFF;
+	}
+	
+	#controls a.btn-prev {
+		float: left;
+	}
+
+	#controls a.btn-nxt {
+		float: right;
+	}
+
+#blobs { 
+	width: 150px;	
+	height: 15px; 
+	position: relative;
+	margin: 500px auto 0 auto;
+}
+
+	#blobs ul li {
+		display: block;
+		float: left;
+		margin-right: 10px;
+	}
+
+	#blobs ul li a {
+		display: block;
+		width: 5px;
+		height: 5px;
+		padding: 5px;
+		line-height: 5px;
+		text-decoration: none;
+		background: #288ee5;
+		color: #FFF;
+		text-align: center;
+		font-size: 12px;
+	}
+
+	#blobs ul li a:hover, #blobs ul li a.active {
+	 text-decoration: none;
+	 background: #FFF;
+	 color: #000;
+	}

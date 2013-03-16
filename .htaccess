@@ -1,0 +1,10 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} !^blog\.rohanchambers\.net$ [NC]
+RewriteRule ^blog/(.*)$ http://blog.rohanchambers.net/$1 [R=301,L]
+ErrorDocument 404 /404.html
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+# Replace html with your file extension, eg: php, htm, asp

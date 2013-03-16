@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Preload Image</title>
+<link rel="stylesheet" type="text/css" href="styles.css" />  
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery || document.write('<script src="scripts/jquery-1.6.2.min.js"><\/script>')</script>
+
+<script type="text/javascript">
+	$(document).ready( function(){
+	
+		var img = new Image()
+		
+		$(img).delay(800).load( function(){
+			$(img).hide();
+			//$('p').hide();
+			$('#content').removeClass('.loader').append(img);
+			$(img).fadeIn('slow');
+		}).attr('src', 'img/1.jpg');
+	
+	});
+</script>
+
+</head>
+<body>
+	<div id="main-container">
+		<div id="content" class="loader"></div>
+	</div>
+</body>
+</html>

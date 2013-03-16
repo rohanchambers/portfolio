@@ -1,0 +1,69 @@
+/* Bar Percentage */
+* {
+	margin:0;
+	padding:0;
+}
+
+article, 
+aside, 
+details, 
+figcaption, 
+figure, 
+footer, 
+header, 
+hgroup, 
+nav, 
+section { 
+	display: block; 
+}
+
+#main-container {
+	margin-top:50px;
+	width:100%;
+}
+
+#content {
+	margin:0 auto;
+	width:960px;
+}
+
+.holder {
+	width: 340px;
+	height: 18px;	
+	margin-bottom: 10px;	
+}
+
+	.label {
+		display: block;
+		float: left;
+		width: 70px;
+		height: 18px;		
+		margin-right: 10px;
+	}
+
+	.value {
+		display: block;
+		float: right;
+		width: 50px;
+		height: 18px;		
+	}	
+	
+	.bar-holder {
+		float: left;
+		width: 200px;
+		height: 18px;		
+	}	
+		
+		.bar {
+			display: block;
+			float: left;
+			width: 0%;
+			height: 18px;
+			background: red;
+		}
+		
+		.no-js .bar {
+			width: 100%;
+			background: red;
+		}
+		

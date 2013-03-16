@@ -1,0 +1,53 @@
+/* Rohan Carousel */
+* { margin: 0; padding: 0;}
+
+#main-container {
+	width: 100%;
+	background: #000;
+}
+
+#content { 	
+	margin: 0 auto;
+	width: 960px;
+	margin-top: 200px;	
+}
+
+#client-content {
+	width: 960px;
+	height: 333px;
+}
+
+#client-content.virgin { background: url(img/bg/virgin.jpg) no-repeat;}
+#client-content.adventure { background: url(img/bg/adventureecology.jpg) no-repeat;}
+#client-content.bbc { background: url(img/bg/bbc.jpg) no-repeat;}
+#client-content.callaway { background: url(img/bg/callaway.jpg) no-repeat;}
+#client-content.channel4 { background: url(img/bg/channel4.jpg) no-repeat;}
+#client-content.doritos { background: url(img/bg/doritos.jpg) no-repeat;}
+#client-content.ea { background: url(img/bg/ea.jpg) no-repeat;}
+#client-content.espn { background: url(img/bg/espn.jpg) no-repeat;}
+#client-content.etautz { background: url(img/bg/etautz.jpg) no-repeat;}
+#client-content.honda { background: url(img/bg/honda.jpg) no-repeat;}
+#client-content.innocent { background: url(img/bg/innocent.jpg) no-repeat;}
+#client-content.jcb { background: url(img/bg/jcb.jpg) no-repeat;}
+#client-content.learndirect { background: url(img/bg/learndirect.jpg) no-repeat;}
+#client-content.sheba { background: url(img/bg/sheba.jpg) no-repeat;}
+#client-content.snickers { background: url(img/bg/snickers.jpg) no-repeat;}
+
+ul#clients {
+	width: 970px;
+	height: 330px;	
+}
+
+#clients li {
+	display: block;
+	float: left;
+	width: 183px; 
+	height: 103px;
+	border: 4px solid #000;
+}
+
+#clients li img {
+	border: none;
+	width: 183px; 
+	height: 103px;	
+}

@@ -1,0 +1,35 @@
+/* Rohan Carousel */
+* { margin: 0; padding: 0;}
+
+#main-container {
+	width: 100%;
+}
+
+#content { 	
+	margin: 0 auto;
+	width: 500px;	
+}
+
+.text { 
+	margin-bottom: 100px;
+}
+
+a.arrow-down { 
+	width: 48px;
+	height: 45px;
+	display: block;
+	float: right;
+	margin-top: 10px;
+	text-indent: -9999px;
+	background: url(img/arrow.png) 0 -45px no-repeat;
+}
+
+a.arrow-up {
+	width: 48px;
+	height: 45px;
+	display: block;
+	float: right;
+	margin-top: 10px;
+	text-indent: -9999px;
+	background: url(img/arrow.png) 0 0 no-repeat;
+}

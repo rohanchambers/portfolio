@@ -1,0 +1,110 @@
+/* Project Name: | Author: | Date:  */
+
+body { font-family: Arial, Verdana, sans-serif; font-size: 12px;}
+
+h2 { font-weight: normal; margin-bottom: 5px;}
+
+#main-container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+#content { 	
+	margin: 0 auto;
+	padding: 10px;
+	width: 934px;
+	height: 525px;	
+}
+
+fieldset { margin-top: 10px; border: none;}
+legend { font-size: 14px; margin-bottom: 5px;}
+label { font-size: 18px; display: block; margin-bottom: 10px;}
+select { width: 275px; margin-bottom: 5px; padding: 1px}
+
+#form {
+	position: absolute;
+	float: left;
+	clear: both;
+	display: none;
+}
+
+.no-js #form { display: block;}
+
+.input-container { 
+	position: relative;
+}
+
+.no-js .input-container { display: none;}
+
+a.btn-tweet { 
+	position: relative;
+	display: block;
+	clear: both;
+	background: url(../../img/dropdown_arrow.gif) no-repeat right 0; 
+	border: 1px solid #cccecd;
+	width: 275px; 
+	height: 27px; 
+	line-height: 27px;
+	text-decoration: none;
+	color: #000;
+	padding-left: 7px;
+}
+
+	.btn-tweet span {		
+		display: block; 
+		float: left;
+		margin: 4px 5px 0 0;
+		width: 32px;
+		height: 20px;
+		background: url(../../img/flag_uk.gif) no-repeat; 
+	}
+	
+.input { 
+ 	position: relative;
+ 	float: left;
+	width: 282px; 
+	height: auto; 	
+	border: 1px solid #cccecd;
+	display: none;	
+}
+
+.country { 
+	float: left; 
+	height: auto;
+	margin: 0;
+}
+
+	.country li { 
+		width: 274px;
+		height: 28px; 
+		line-height: 28px;
+		margin-bottom: 1px; 
+		padding-left: 8px; 
+		list-style: none;
+		z-index: 100;
+	}
+
+	.country li span {
+		display: block; 
+		float: left;
+		margin: 5px 5px 0 0;
+		width: 30px;
+		height: 18px;
+	}
+
+		.country li span.gb, span.gb { background: url(../../img/flag_uk.gif) no-repeat center center;}
+		.country li span.de, span.de { background: url(../../img/flag_de.gif) no-repeat center center;}
+		.country li span.us, span.us { background: url(../../img/flag_us.gif) no-repeat center center;}
+		.country li span.pl, span.pl { background: url(../../img/flag_pl.gif) no-repeat center center;}
+		.country li span.ru, span.ru { background: url(../../img/flag_ru.gif) no-repeat center center;}
+		.country li span.es, span.es { background: url(../../img/flag_es.gif) no-repeat center center;}
+	
+		.country li:hover {
+			background: #e9e9e9;
+			cursor: pointer;
+		}
+	
+			.country li a { 
+				text-decoration: none; 
+				color: #000;
+			}

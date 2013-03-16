@@ -1,0 +1,140 @@
+/* Bar Percentage */
+* {
+	margin:0;
+	padding:0;
+}
+
+body {
+	font-family: Verdana, Arial, sans-serif;
+}
+
+article, 
+aside, 
+details, 
+figcaption, 
+figure, 
+footer, 
+header, 
+hgroup, 
+nav, 
+section { 
+	display: block; 
+}
+
+#main-container {
+	margin-top:50px;
+	width:100%;
+}
+
+#content {
+	margin:0 auto;
+	width:960px;
+}
+
+	#user_profiles {
+		position: relative;
+		width: 910px;
+		height: 325px;
+	}
+
+		#user_profiles li {
+			position: relative;
+			display: block;
+			float: left;
+			margin: 0 1px 1px 0;
+			width: 64px;
+			height: 64px;
+			cursor: pointer;
+		}
+
+		#user_profiles li#fullProfile {
+			display: none;
+			position: absolute;
+			z-index: 15;
+			top: 27%;
+			left: 36%;
+			background: red;
+			width: 250px;
+			height: 150px;
+		}
+			
+			#user_profiles li img {
+				width: 64px;
+				height: 64px;
+				z-index: 0;
+			}
+
+			#user_profiles li .tooltip {
+				display: none;
+				position: absolute;
+				z-index: 10;
+				padding: 5px;
+				width: 250px;
+				height: 92px;
+				background: #000;
+				color: #FFF;
+			}
+
+			#user_profiles li#fullProfile.super .tooltip {
+				top: 0;
+				left:0;
+			}
+						
+					#user_profiles li .tooltip img {
+						float: left;
+						margin-right: 5px;
+						width: 64px;
+						height: 64px;
+						border: 1px solid #FFF;
+						background: #FFF;						
+					}
+
+					#user_profiles li .tooltip h2 {
+						font-size: 12px;
+					}
+
+					#user_profiles li .tooltip p {
+						font-size: 10px;
+					}
+
+					#user_profiles li .tooltip .close {
+						position: absolute;
+						top: 5px; 
+						right: 5px;
+					}
+
+						#user_profiles li .tooltip .close a {
+							display: block;
+							width: 10px;						
+							height: 10px;
+							padding: 2px;							
+							line-height: 10px;
+							text-align: center;
+							background-color: red;	
+							color: #FFF;
+							text-decoration: none;
+							font-size: 12px;	
+						}			
+
+						#user_profiles li .tooltip .close a:hover {
+							background-color: #FFF;
+							color: #000;
+						}
+						
+						#user_profiles li .tooltip .expand {
+							display: block;
+							float: right;
+						}
+						
+							#user_profiles li .tooltip .expand a {
+								background-color: red;	
+								color: #FFF;
+								text-decoration: none;
+								font-size: 10px;								
+								padding: 1px;
+							}
+							
+							#user_profiles li .tooltip .expand a:hover {						
+								background-color: #FFF;
+								color: #000;
+							}

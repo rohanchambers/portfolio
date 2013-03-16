@@ -1,0 +1,51 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<title>Custom Form Dropdown</title>
+	<meta name="description" content="Customisable html elements" />
+	<meta name="keywords" content="<?=$browserKeywords?>" />
+	<meta name="viewport" content="width=device-width">
+	<link rel="shortcut icon" href="favicon.ico" />  
+	<link rel="stylesheet" href="includes/css/reset.css">
+	<link rel="stylesheet" href="includes/css/style.css">
+	<script src="includes/js/libs/modernizr-2.5.2.min.js"></script>
+</head>
+<body>
+	<div id="main-container">
+		<div id="content">				
+			<div class="input-container">
+				<h2>1. Select a country:</h2>
+				<a href="#" class="btn-tweet">Choose you country</a>
+				<div class="input">
+					<ul class="country">
+					</ul>
+				</div>
+			</div>	
+				
+			<form id="form" name="form" method="post" action="#">				
+				<fieldset>
+					<label>1. Select a country:</label>
+					<select id="countries">					
+					  <option value="Great Britain">Great Britain</option>
+					  <option value="United States">United States</option>
+					  <option value="Germany">Germany</option>
+					  <option value="Russia">Russia</option>
+					  <option value="Poland">Poland</option>
+					  <option value="Spain">Spain</option>
+					</select>
+				</fieldset>
+			</form>						
+		</div>
+	</div>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="includes/js/libs/jquery-1.7.1.min.js"><\/script>')</script>
+	<!-- the jScrollPane script -->
+	<script type="text/javascript" src="includes/js/libs/jquery.jscrollpane.min.js"></script>
+	<script type="text/javascript" src="includes/js/script.js"></script>
+</body>
+</html>

@@ -15,7 +15,7 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 			<section id="more">			
 				<div id="scroll"><a class="arrow-down" href="#skip-content" title="Skip to content"></a></div>
 				<div id="about">
-					<h1>Welcome to my online portfolio</h1>
+					<h1>TestWelcome to my online portfolio</h1>
 					<p>This <strong>website</strong> is primarily designed to be an online portfolio presence for <strong>Rohan Chambers</strong>, a <strong>Front-end Developer/Web Designer</strong> based in London, UK.
 					I am currently working as a <strong>Social Media Technologist (Front end)</strong> for an agency called <strong>We Are Social</strong>. Prior to this I was working full time at <strong>Playboy UK</strong> for 3 years as a web developer and continue to freelance on an occasional basis.</p>		
 					<p>Some of the <strong>Technologies</strong> used on this site and other <strong>Projects</strong> I have done include <strong>XHTML, CSS</strong> complemented by some Javascript, Jquery, PHP and Wordpress.

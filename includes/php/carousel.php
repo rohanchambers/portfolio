@@ -5,9 +5,17 @@
 	</div>			
 	<ul id="carousel">
 		<li>
-			<a href="case-study/tiger/"><img src="../../img/pages/home/carousel/tiger.jpg" alt="Live young this January with Evian Hub" width="960" height="420" /></a>
+			<a href="case-study/redbull/"><img src="../../img/pages/home/carousel/redbull.jpg" alt="Redbull, Our Editions" width="960" height="420" /></a>
 			<div class="captions">
-			    <h3>Tiger Beer Zodia Pairs</h3>
+			    <h3>Redbull Our Editions</h3>
+				<p>I worked on this Facebook app. game for Tiger Beer as a front end developer. The player to get the highest score on Zodiac Pairs game during Chinese New Year will be in with the chance to win an awesome trip to Singapore.<br />
+			    <a class="find-more" href="case-study/redbull/">Find out more</a></p>
+			</div>													
+		</li>
+		<li>
+			<a href="case-study/tiger/"><img src="../../img/pages/home/carousel/tiger.jpg" alt="Tiger Beer Zodia Pairs" width="960" height="420" /></a>
+			<div class="captions">
+			    <h3>Tiger Beer Zodiac Pairs</h3>
 				<p>I worked on this Facebook app. game for Tiger Beer as a front end developer. The player to get the highest score on Zodiac Pairs game during Chinese New Year will be in with the chance to win an awesome trip to Singapore.<br />
 			    <a class="find-more" href="case-study/tiger/">Find out more</a></p>
 			</div>													

@@ -25,6 +25,12 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 					<li><a href="#" title="Freelance" class="freelance">Freelance</a></li>					
 				</ul>	
 				<ul id="case-study">
+					<li class="all web">
+						<a href="case-study/redbull/">
+							<img src="img/pages/portfolio/redbull2.jpg" alt="Redbull Our Editions" />
+							<h3>Redbull<span>| Our Editions (FB App.)</span></h3>
+						</a>	
+					</li>					
 					<li class="all apps">
 						<a href="case-study/jaguar/jaguar-desire">
 							<img src="img/pages/portfolio/jaguar_calendar.jpg" alt="Jaguar Desire Calendar" />

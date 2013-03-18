@@ -281,23 +281,38 @@ SITE.TARGETBLANK = {
 
 SITE.EQUIDISTANT = {
 	initialise: function() {
-		distributeCategoryLinks("#clients ul", "#clients ul li a");
-
+		distributeCategoryLinks(".client-row", ".client-row li a");
 		function distributeCategoryLinks(container, links) {
-		var containerWidth = $(container).width();
-		var listWidth = 0;
-		$(links).each( function () {
-		listWidth = listWidth + $(this).width();
-		});
-		var distance = containerWidth - listWidth;
-		i = 1;
-		$(links).each( function () {
-		var oneDistance = Math.floor( distance/($(links).length - i) );
-		$(this).css("margin-right", oneDistance);
-		distance = distance - oneDistance;
-		i++;
-		} );
+			var containerWidth = $(container).width();
+			var listWidth = 0;
+			$(links).each( function () {
+				listWidth = listWidth + $(this).width();
+			});
+			var distance = containerWidth - listWidth;
+			i = 1;
+			$(links).each( function () {
+				var oneDistance = Math.floor( distance/($(links).length - i) );
+				$(this).css("margin-right", oneDistance);
+				distance = distance - oneDistance;
+				i++;
+			});
 		}
-		
+
+		distributeCategoryLinks(".client-row2", ".client-row2 li a");
+		function distributeCategoryLinks(container, links) {
+			var containerWidth = $(container).width();
+			var listWidth = 0;
+			$(links).each( function () {
+				listWidth = listWidth + $(this).width();
+			});
+			var distance = containerWidth - listWidth;
+			i = 1;
+			$(links).each( function () {
+				var oneDistance = Math.floor( distance/($(links).length - i) );
+				$(this).css("margin-right", oneDistance);
+				distance = distance - oneDistance;
+				i++;
+			});
+		}
 	}
 };

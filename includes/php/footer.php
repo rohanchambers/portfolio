@@ -45,15 +45,25 @@
 				</div>	
 				<div id="clients" class="clearfix">
 					<h2>Brands I work(ed) on:</h2>
-					<ul>
-						<li><a href="/case-study/playboy/"><img src="../../img/icons/clients/playboy.jpg" alt="playboy" width="126" height="40" /></a></li>
-						<li><a href="/case-study/harrods/"><img src="../../img/icons/clients/harrods.jpg" alt="harrods" width="90" height="40" /></a></li>
-						<li><a href="/case-study/jaguar/"><img src="../../img/icons/clients/jaguar.jpg" alt="jaguar" width="90" height="40" /></a></li>
-						<li><a href="/case-study/honda/honda-hub"><img src="../../img/icons/clients/honda.jpg" alt="honda" width="140" height="40" /></a></li>
-						<li><a href="/case-study/harry-potter-part-2/"><img src="../../img/icons/clients/ea.jpg" alt="ea" width="75" height="40" /></a></li>
-						<li><a href="/case-study/bbc-6music/"><img src="../../img/icons/clients/bbc.jpg" alt="BBC" width="88" height="40" /></a></li>
-						<li><a href="/case-study/bridging-the-gap/"><img src="../../img/icons/clients/2012logo.jpg" alt="2012logo" width="90" height="40" /></a></li>
-						<li><a href="/case-study/mycallaway/"><img src="../../img/icons/clients/callaway.jpg" alt="callaway" width="90" height="40" /></a></li>
+					<ul class="client-row">
+						<li><a href="/case-study/playboy/"><img src="../../img/icons/clients/playboy.jpg" alt="playboy" /></a></li>
+						<li><a href="/case-study/harrods/"><img src="../../img/icons/clients/harrods.jpg" alt="harrods" /></a></li>
+						<li><a href="/case-study/jaguar/"><img src="../../img/icons/clients/jaguar.jpg" alt="jaguar" /></a></li>
+						<li><a href="/case-study/honda/honda-hub"><img src="../../img/icons/clients/honda.jpg" alt="honda" /></a></li>
+						<li><a href="/case-study/harry-potter-part-2/"><img src="../../img/icons/clients/ea.jpg" alt="ea" /></a></li>
+						<li><a href="/case-study/bbc-6music/"><img src="../../img/icons/clients/bbc.jpg" alt="BBC" /></a></li>
+						<li><a href="/case-study/bridging-the-gap/"><img src="../../img/icons/clients/2012logo.jpg" alt="2012logo" /></a></li>
+						<li><a href="/case-study/mycallaway/"><img src="../../img/icons/clients/callaway.jpg" alt="callaway" /></a></li>
+					</ul>
+					<ul class="client-row2">
+						<li><a href="/case-study/lenovo/"><img src="../../img/icons/clients/lenovo.jpg" alt="Lenovo" /></a></li>
+						<li><a href="/case-study/evian/"><img src="../../img/icons/clients/evian.jpg" alt="Evian" /></a></li>
+						<li><a href="/case-study/kleenex/"><img src="../../img/icons/clients/kleenex.jpg" alt="Kleenex" /></a></li>
+						<li><a href="/case-study/redbull/"><img src="../../img/icons/clients/redbull.jpg" alt="Redbull" /></a></li>
+						<li><a href="/case-study/tesco/tescoWines"><img src="../../img/icons/clients/tesco.jpg" alt="Tesco" /></a></li>
+						<li><a href="/case-study/tiger/"><img src="../../img/icons/clients/tiger.jpg" alt="Tiger Beer" /></a></li>
+						<li><a href="/case-study/pgtips/"><img src="../../img/icons/clients/pg.jpg" alt="PG Tips" /></a></li>
+						<li><a href="/case-study/bulmers/"><img src="../../img/icons/clients/bulmers.jpg" alt="PG Tips" /></a></li>
 					</ul>
 				</div>
 				<div id="copyright">

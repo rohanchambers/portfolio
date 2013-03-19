@@ -28,7 +28,7 @@ $thisPage='portfolio';
 						<p>I worked on this Facebook app. game for Tiger Beer as a front end developer. It's a simple little pairs game which however has a lot of back end functionality to make the game work well within Facebook.</p>
 					</li>
 					<li><strong>View app:</strong><br>
-						<a href="http://www.facebook.com/tigerbeeruk/app_521667997866887" class="targetBlank">https://www.facebook.com/tigerbeeruk</a>
+						<a href="http://www.facebook.com/tigerbeeruk/app_521667997866887" class="targetBlank">http://www.facebook.com/tigerbeeruk</a>
 					</li>
 				</ul>
 				<div class="hr"></div>	

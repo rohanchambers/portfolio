@@ -2,7 +2,7 @@
 $author = 'Rohan Chambers';
 $browserDescription = 'This website is primarily designed to be an online portfolio presence for Rohan Chambers, a freelance Web Designer/Developer based in London, UK.';
 $browserKeywords = 'rohan chambers, rohan, chambers, freelance front end developer, front end developer, web designer, web development, xhtml, css, html5, css3, jquery, w3c, web standards';
-$browserTitle = 'Tiger Beer Zodia Pairs | RohanChambers.net';
+$browserTitle = 'Redbull Our Editions | RohanChambers.net';
 $classBody = 'case-study';
 $thisPage='portfolio';
 ?>
@@ -21,12 +21,12 @@ $thisPage='portfolio';
 					<li><strong>Date: </strong>March 2013</li>
 					<li><strong>Client: </strong>Redbull</li>	
 					<li><strong>Agency: </strong><a href="http://www.wearesocial.net/" class="targetBlank">We Are Social</a></li>								
-					<li><strong>Technologies: </strong>HTML5, CSS3, JavaScript/jQuery, Responsive design</li>	
+					<li><strong>Technologies: </strong>HTML5, CSS3, JavaScript/jQuery, Responsive design/development</li>	
 					<li><strong>Tasks:</strong></li>
 					<li>
-						<p>I worked on this Facebook app. game for Tiger Beer as a front end developer. It's a simple little pairs game which however has a lot of back end functionality to make the game work well within Facebook.</p>
+						<p></p>
 					</li>
-					<li><strong>View site:</strong><br>
+					<li><strong>View site:</strong> <a href="http://redsilverblue.redbull.co.uk/" class="targetBlank">RedSilverBlue.Redbull.co.uk</a><br>
 					</li>
 				</ul>
 				<div class="hr"></div>	

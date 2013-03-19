@@ -11,7 +11,8 @@ $(document).ready(function() {
 	SITE.TARGETBLANK.initialise();
 	SITE.NAVOPACITY.initialise();
 	SITE.BORDEROPACITY.initialise();	
-	SITE.EQUIDISTANT.initialise();		
+	SITE.EQUIDISTANT.initialise();	
+	SITE.EQUIDISTANT2.initialise();			
 });
 
 // *******************************************************************************************
@@ -297,22 +298,27 @@ SITE.EQUIDISTANT = {
 				i++;
 			});
 		}
-
-		distributeCategoryLinks(".client-row2", ".client-row2 li a");
-		function distributeCategoryLinks(container, links) {
-			var containerWidth = $(container).width();
-			var listWidth = 0;
-			$(links).each( function () {
-				listWidth = listWidth + $(this).width();
+	}
+};
+	
+SITE.EQUIDISTANT2 = {
+	initialise: function() {
+		distributeCategoryLinks2(".client-row2", ".client-row2 li a");
+		function distributeCategoryLinks2(container2, links2) {
+			var containerWidth2 = $(container2).width();
+			var listWidth2 = 0;
+			$(links2).each( function () {
+				listWidth2 = listWidth2 + $(this).width();
 			});
-			var distance = containerWidth - listWidth;
+			var distance2 = containerWidth2 - listWidth2;
 			i = 1;
-			$(links).each( function () {
-				var oneDistance = Math.floor( distance/($(links).length - i) );
-				$(this).css("margin-right", oneDistance);
-				distance = distance - oneDistance;
+			$(links2).each( function () {
+				var oneDistance2 = Math.floor( distance2/($(links2).length - i) );
+				$(this).css("margin-right", oneDistance2);
+				distance2 = distance2 - oneDistance2;
 				i++;
 			});
 		}
 	}
+	
 };

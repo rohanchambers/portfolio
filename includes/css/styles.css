@@ -195,6 +195,9 @@ behavior: url(includes/css/PIE.htc);
 #about:hover strong { color: #0074c0;}
 .bullets { font-size: 1.3em; margin: 3px 0 12px 0;}
 .bullets li { margin: 0 0 2px 15px; padding: 3px 0; list-style-image: url(../../img/btn/btn-global-arrow-blue.png); list-style-type: disc;}
+.case-study-details .bullets { font-size: 0.775em!important; }
+.case-study-details .bullets li { margin: 0 0 2px 15px; line-height: 1.3em; list-style-image: url(../../img/btn/btn-global-arrow-blue.png); list-style-type: disc;}
+
 	.bullets li .star-rating { float: right; clear: both; margin: -5px 0 0 -5px!important;}
 	.bullets li .star-rating li { width: 15px; height: 14px; float: left; margin: 0 8px 2px 0; padding: 3px 0; list-style-image: url(../../img/icons/star-blue.png);}
 	.bullets li .star-rating li.no-star { list-style-image: url(../../img/icons/star-grey.png);}

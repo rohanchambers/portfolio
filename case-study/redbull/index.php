@@ -24,7 +24,14 @@ $thisPage='portfolio';
 					<li><strong>Technologies: </strong>HTML5, CSS3, JavaScript/jQuery, Responsive design/development</li>	
 					<li><strong>Tasks:</strong></li>
 					<li>
-						<p></p>
+						<p>I developed the complete front-end build for this Redbull microsite. The site is completely responsive for all major mobile devices including the iPad and iPhone. Interaction with the Instagram API for all data calling by the back-end developers I work with.</p>
+						<p>Instagram your inspiration in Red, Silver or Blue to claim a can. Below is a small get started instruction outline of how the site works and integrates with Instagram.</p>
+						<ul class="bullets">
+							<li>Shoot & Upload: Upload your most creative red, blue or silver photo to Instagram.</li>
+							<li>Tag & Share Tag your Instagrams with @RedBullUK and either #rededitionplease #silvereditionplease or #blueditionplease in your caption.</li>
+							<li>Claim a can: If your Instagram makes our gallery we will be in touch with details of how to claim your Red Bull Edition.</li>
+							<li>Give your Instagram Wings: The most inspiring Instagrams as chosen by our editors will be exhibited in cities across the UK.</li>
+						</ul>
 					</li>
 					<li><strong>View site:</strong> <a href="http://redsilverblue.redbull.co.uk/" class="targetBlank">RedSilverBlue.Redbull.co.uk</a><br>
 					</li>

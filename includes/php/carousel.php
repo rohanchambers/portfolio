@@ -7,8 +7,8 @@
 		<li>
 			<a href="case-study/redbull/"><img src="../../img/pages/home/carousel/redbull.jpg" alt="Redbull, Our Editions" width="960" height="420" /></a>
 			<div class="captions">
-			    <h3>Redbull Our Editions</h3>
-				<p>I worked on this Facebook app. game for Tiger Beer as a front end developer. The player to get the highest score on Zodiac Pairs game during Chinese New Year will be in with the chance to win an awesome trip to Singapore.<br />
+			    <h3>Redbull Editions, Instagram your Inspiration</h3>
+				<p>I developed the complete front-end build for this Redbull microsite. The site is completely responsive for all major mobile devices including the iPad and iPhone. Interaction with the Instagram API for all data calling by the back-end developers I work with.
 			    <a class="find-more" href="case-study/redbull/">Find out more</a></p>
 			</div>													
 		</li>

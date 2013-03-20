@@ -2,7 +2,7 @@
 $author = 'Rohan Chambers';
 $browserDescription = 'This website is primarily designed to be an online portfolio presence for Rohan Chambers, a freelance Web Designer/Developer based in London, UK.';
 $browserKeywords = 'rohan chambers, rohan, chambers, freelance front end developer, front end developer, web designer, web development, xhtml, css, html5, css3, jquery, w3c, web standards';
-$browserTitle = 'Redbull Our Editions | RohanChambers.net';
+$browserTitle = 'Redbull Editions, Instagram your Inspiration | RohanChambers.net';
 $classBody = 'case-study';
 $thisPage='portfolio';
 ?>
@@ -16,7 +16,7 @@ $thisPage='portfolio';
 					<li><a href="../jaguar/jaguar-desire" class="go-next" title="Next Project"></a></li>
 				</ul>
 				<div class="hr"></div>			
-				<h2>Redbull, Our Editions</h2>
+				<h2>Redbull Editions<br>Instagram your Inspiration</h2>
 				<ul class="case-study-details">
 					<li><strong>Date: </strong>March 2013</li>
 					<li><strong>Client: </strong>Redbull</li>	

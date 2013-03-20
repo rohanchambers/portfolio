@@ -291,7 +291,7 @@ h2#icon-underhood { margin-bottom: 10px; height: 100%; height: 25px; line-height
 .case-study #right-col .captions h3 { font-size: 1.1em;}
 .case-study #right-col .captions p { font-size: 1em;}
 .case-study #right-col img { margin-bottom: 50px;}
-.case-study #right-col li { list-style: none; text-align: center;}
+.case-study #right-col li { list-style: none;}
 
 /* Services */
 #left-col { float: left; width: 460px; height: auto;}

@@ -41,7 +41,7 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 				</div>
 				<div id="contact" class="last">
 					<h2>Contact:</h2>
-					<p><a href="mailto:info@rohanchambers.net">info@rohanchambers.net</a></p>
+					<p><a href="mailto:info@rohanchambers.net" class="block-link">info@rohanchambers.net</a></p>
 					<h2>Recruit me:</h2>
 					<ul class="bullets">
 						<li>Available for small freelance projects remotely.</li>

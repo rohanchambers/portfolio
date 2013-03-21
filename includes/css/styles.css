@@ -81,19 +81,36 @@ td { vertical-align: top; }
   h2#icon-underhood, h2#icon-cv { background-image: none;}
 }
 
+/* Rockwell */
 @font-face {
   font-family: "rockwell";
-  src: url("../../fonts/rockwell.eot");
-  src: local("rockwell"),
-    url("../../fonts/rockwell.woff") format("woff"),
-    url("../../fonts/rockwell.otf") format("opentype"),
-    url("../../fonts/rockwell.svg#rockwell") format("svg");
+	src: url("../../fonts/rockwell.eot");
+	src: url('../../fonts/rockwell.eot?#iefix') format('embedded-opentype'), 
+		 url("../../fonts/rockwell.woff") format("woff"),
+		 url("../../fonts/rockwell.otf") format("opentype"),
+		 url("../../fonts/rockwell.svg#rockwell") format("svg");
+    font-weight: normal;
+    font-style: normal;    
+}
+/* FuturaLT-CondensedBold */
+@font-face {
+    font-family: 'FuturaLT-CondensedBold';
+    src: url('../../fonts/FuturaLT-CondensedBold.eot');
+    src: url('../../fonts/FuturaLT-CondensedBold.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/FuturaLT-CondensedBold.woff') format('woff'),
+         url('../../fonts/FuturaLT-CondensedBold.ttf') format('truetype'),
+         url('../../fonts/FuturaLT-CondensedBold.svg#FuturaLT-CondensedBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 
 /* Typography */
-h1, h2, h3, nav, nav span, #tweet, section#portfolio ul li a, ul.case-study-details li strong, .case-study #left-col a.go-back 
-{ font-family: 'rockwell', Arial, Helvetica, Verdana;}
-h1, h2 { font-size: 2em; line-height: 1; padding-bottom: 15px; color: #0074c0; font-weight: normal; clear: both;}
+h1, h2, h3, nav, nav span, #tweet, #portfolio ul li a, ul.case-study-details li strong, .case-study #left-col a.go-back { 
+font-family: 'FuturaLT-CondensedBold', Arial, Helvetica, Verdana; text-transform: uppercase;}
+
+.portfolio h3 { font-family: 'rockwell', Arial, Helvetica, Verdana; text-transform: none;}
+
+h1, h2 { font-size: 1.8em; line-height: 1; padding-bottom: 15px; color: #0074c0; font-weight: normal; clear: both;}
 h3 { font-size: 1.4em; font-weight: bold; color: #333333; padding-bottom: 5px; text-decoration: none;}
 .portfolio h3 { position: absolute; bottom: -30px; left: 0; display: block; clear: both; font-size: inherit; color: #333;}
 .ie7 .portfolio h3 { font-size: 1em; padding-top: 4px;}
@@ -103,8 +120,14 @@ h3 { font-size: 1.4em; font-weight: bold; color: #333333; padding-bottom: 5px; t
 #what-i-do ul li a:hover h3 { border-left: 5px solid #000;}
 
 p { font-size:1.3em; line-height:1.5em; padding:0 0 15px; color:#333333;}
+
+/* Normal Links */
 a { font-size: 1.3em; color:#0074c0;}
 a:hover { text-decoration:none;}
+/* Block links */
+a.block-link, .case-study-details a { font-size: inherit; color:#0074c0;}
+a.block-link:hover, .case-study-details a:hover { background-color: #0074c0; color: #FFF; text-decoration:none;}
+
 a, a:hover, a:active, a:focus { outline:none;}
 p a { font-size: inherit;}
 .ie7 p a, .ie7 #copyright a, .ie7 ul.bullets a { font-size: 1em;}
@@ -112,8 +135,8 @@ p a { font-size: inherit;}
 .bullets a { font-size: inherit; font-family: Arial, Helvetica, Verdana!important;}
 .services p { padding:0 0 8px;}
 
-nav { font-size: 1.1em; text-transform:uppercase;}
-nav span { font-size:.8em; text-transform:none; letter-spacing:1px;}
+nav { font-size: 1.2em; letter-spacing: 1px; text-transform:uppercase;}
+nav span { font-size:.8775em; text-transform:none; letter-spacing:1px;}
 #tweet { font-size: 2em; line-height: 1.2; color: #FFF;}
 
 /* Global button span */
@@ -400,7 +423,7 @@ small { color:#999; font-size:.85em; clear:both; }
 p { clear:both; }
 .endOfSection { clear:both; width:100%; height:0; display:block; line-height:0; font-size:0; padding:0; margin-top:50px; border:0; }
 
-/* and now the form itself */
+/* Form */
 label { display:block; float:left; clear:left; margin:5px 0 10px; width:270px; line-height:120%; font-size:inherit; padding-right:10px; }
 #get-quote-form input,#get-quote-form textarea,#get-quote-form select { padding:2px; font-size:1em; color:#666666; background:#F5F5F5; border:1px solid #ccc; float:left; display:block; margin:5px 0 10px; }
 #get-quote-form input:focus,#get-quote-form textarea:focus,#get-quote-form select:focus { border:1px solid #999; background-color:#FFFFFF; }

@@ -27,8 +27,8 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 				<ul id="case-study">
 					<li class="all web">
 						<a href="case-study/redbull/">
-							<img src="img/pages/portfolio/redbull2.jpg" alt="Redbull Our Editions" />
-							<h3>Redbull<span>| Our Editions (FB App.)</span></h3>
+							<img src="img/pages/portfolio/redbull.jpg" alt="Redbull Our Editions" />
+							<h3>Redbull<span>| Editions</span></h3>
 						</a>	
 					</li>					
 					<li class="all apps">
@@ -45,7 +45,7 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 					</li>
 					<li class="all apps">
 						<a href="case-study/evian">
-							<img src="img/pages/portfolio/evian.jpg" alt="Live young this January this January with Evian" />
+							<img src="img/pages/portfolio/evian3.jpg" alt="Live young this January this January with Evian" />
 							<h3>Evian<span>| Live young January (FB App.)</span></h3>
 						</a>	
 					</li>

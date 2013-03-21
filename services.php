@@ -16,7 +16,7 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 					market I always try to keep the price for my services as realistic and affordable as possible.</p>				
 					
 					<div id="services-content">						
-						<p>If you would like to get a quote or some information regarding your project please feel free to <a href="contact">get in contact</a>
+						<p>If you would like to get a quote or some information regarding your project please feel free to <a href="contact" class="block-link">get in contact</a>
 						or click on the button below and complete a requirements form that will send me your info and details regarding your project.
 						<br /><span class="confidential">*All details will be kept strictly confidential.</span></p>
 						<a href="get-a-quote" class="btn-global btn-spacer">Get a quote<span class="arrow"></span><span></span></a>
@@ -76,9 +76,9 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 		                    <div id="third">
 		                        <a id="three-D"></a>
 		                        <h3>3D Animation</h3>
-		                        <p>3D modelling, especially for architecture, is another area I work in that includes modelling and animation for houses and buildings. He can however model, texturize and animate almost anything from small details to larger shapes and objects. There are a few examples under the <a href="portfolio">3D Work</a> section of this portfolio. The 3D software packages that Rohan uses are mainly Cinema 4D and Maya.</p>
+		                        <p>3D modelling, especially for architecture, is another area I work in that includes modelling and animation for houses and buildings. He can however model, texturize and animate almost anything from small details to larger shapes and objects. There are a few examples under the <a href="portfolio" class="block-link">3D Work</a> section of this portfolio. The 3D software packages that Rohan uses are mainly Cinema 4D and Maya.</p>
 		                        <h3>Video</h3>
-		                        <p>Yet another service that I provide is video editing for small-scale projects using software such as Final Cut Pro and After Affects. Some of my videos, editing skills and work are implemented in his 3D  movies and can be previewed in the <a href="portfolio">Video</a> section.</p>                
+		                        <p>Yet another service that I provide is video editing for small-scale projects using software such as Final Cut Pro and After Affects. Some of my videos, editing skills and work are implemented in his 3D  movies and can be previewed in the <a href="portfolio" class="block-link">Video</a> section.</p>                
 								<ul class="bullets">
 		                            <li>Video integration &amp; encoding</li>
 		                            <li>Video editing for small-medium scale projects</li>
@@ -89,7 +89,7 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 		                    
 		                    <div id="fourth">
 		                        <h3>DVD Design</h3>
-		                        <p>A more new and recent service I provides in the media field is DVD design, which is creating menus with chapters, slideshows etc... for movies, documentaries and more using Apple's DVD Studio Pro software. One of the projects I took on in this discipline was a DVD menu for the car manufacturer <strong>Jaguar</strong> which wanted to commercialise their brand new release of the 2006 <a href="http://rohanchambers.net/case-study/jaguar/">Jaguar XK</a>.</p>
+		                        <p>A more new and recent service I provides in the media field is DVD design, which is creating menus with chapters, slideshows etc... for movies, documentaries and more using Apple's DVD Studio Pro software. One of the projects I took on in this discipline was a DVD menu for the car manufacturer <strong>Jaguar</strong> which wanted to commercialise their brand new release of the 2006 <a href="http://rohanchambers.net/case-study/jaguar/" class="block-link">Jaguar XK</a>.</p>
 		                    </div>
 		                </div><!--END OF TABS-->
 					</div><!--SERVICES CONTENT-->
@@ -126,7 +126,7 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 								<li></li>				
 							</ul>					
 						</li>					
-						<li>JavaScript/jQuery Library (<a href="dev">View examples</a>)						
+						<li>JavaScript/jQuery Library (<a href="dev" class="block-link">View examples</a>)						
 							<ul class="star-rating">
 								<li></li>
 								<li></li>

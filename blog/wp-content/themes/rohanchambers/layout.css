@@ -1,5 +1,20 @@
 /* Rohanchambers.net, Layout | Date: 26 April 2011 | Author: Rohan Chambers */
 
+/* FuturaLT-CondensedBold */
+@font-face {
+    font-family: 'FuturaLT-CondensedBold';
+    src: url('http://www.rohanchambers.net/fonts/FuturaLT-CondensedBold.eot');
+    src: url('http://www.rohanchambers.net/fonts/FuturaLT-CondensedBold.eot?#iefix') format('embedded-opentype'),
+         url('http://www.rohanchambers.net/fonts/FuturaLT-CondensedBold.woff') format('woff'),
+         url('http://www.rohanchambers.net/fonts/FuturaLT-CondensedBold.ttf') format('truetype'),
+         url('http://www.rohanchambers.net/fonts/FuturaLT-CondensedBold.svg#FuturaLT-CondensedBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+nav, nav span { 
+font-family: 'FuturaLT-CondensedBold', Arial, Helvetica, Verdana; text-transform: uppercase;}
+nav { font-size: 1.2em; letter-spacing: 1px; text-transform:uppercase;}
+nav span { font-size:.8775em; text-transform:none; letter-spacing:1px;}
 header, #content, footer, section { display:block; float:none; margin:0 auto; text-align:left; width:960px;}
 #header-wrapper { width: 100%; background: url(http://www.rohanchambers.net/img/global/bg-main.jpg) repeat-x;}
 header { position: relative; height: 90px;}
@@ -29,6 +44,6 @@ margin: 0 0 0 10px;}
 nav ul li:hover { background-color: #0074C0;}
 nav ul li.currentpage { background-color: #0074C0;}
 nav ul li a { display: block; height: auto; padding-left: 8px; background: url(http://www.rohanchambers.net/img/global/bg-nav-divider.gif) repeat-y; 
-color: #FFF!important; font-family: Rockwell, Arial, Sans-serif; font-size: 14px; text-transform: uppercase; text-align: center; text-decoration: none;}
+color: #FFF!important; text-transform: uppercase; text-align: center; text-decoration: none;}
 nav ul li a:hover { text-decoration: none;}
-nav ul li a span { display: block; clear: both; margin-top: -10px; font-size: 11px; letter-spacing: 1px; text-transform: none;}
+nav ul li a span { display: block; clear: both; margin-top: -10px; letter-spacing: 1px; text-transform: none;}

@@ -586,7 +586,8 @@ div.menu li {
 	font-size: 18px;
 	line-height: 1.3em;
 	margin-bottom: 0;
-	font-family: Rockwell, Helevetica, Arial, Sans-serif;
+	font-family: FuturaLT-CondensedBold, Helevetica, Arial, Sans-serif;
+	text-transform: uppercase;
 }
 .entry-title a:link,
 .entry-title a:visited {
@@ -1164,10 +1165,11 @@ h3#reply-title {
 	margin: 0 0 18px 0;
 }
 .widget-title {
-	font-family: 'Rockwell', Arial, Sans-Serif;
+	font-family: 'FuturaLT-CondensedBold', Arial, Sans-Serif;
 	color: #0074C0;
 	font-size: 18px;
 	margin-bottom: 5px;
+	text-transform: uppercase;	
 }
 .widget-area a:link,
 .widget-area a:visited {

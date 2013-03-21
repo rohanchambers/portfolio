@@ -45,7 +45,7 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 					</li>
 					<li class="all apps">
 						<a href="case-study/evian">
-							<img src="img/pages/portfolio/evian3.jpg" alt="Live young this January this January with Evian" />
+							<img src="img/pages/portfolio/evian.jpg" alt="Live young this January this January with Evian" />
 							<h3>Evian<span>| Live young January (FB App.)</span></h3>
 						</a>	
 					</li>

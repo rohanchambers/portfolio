@@ -107,9 +107,7 @@ td { vertical-align: top; }
 /* Typography */
 h1, h2, h3, nav, nav span, #tweet, #portfolio ul li a, ul.case-study-details li strong, .case-study #left-col a.go-back { 
 font-family: 'FuturaLT-CondensedBold', Arial, Helvetica, Verdana; text-transform: uppercase;}
-
-.portfolio h3 { font-family: 'rockwell', Arial, Helvetica, Verdana; text-transform: none;}
-
+.portfolio h3, #tweet { font-family: 'rockwell', Arial, Helvetica, Verdana; text-transform: none;}
 h1, h2 { font-size: 1.8em; line-height: 1; padding-bottom: 15px; color: #0074c0; font-weight: normal; clear: both;}
 h3 { font-size: 1.4em; font-weight: bold; color: #333333; padding-bottom: 5px; text-decoration: none;}
 .portfolio h3 { position: absolute; bottom: -30px; left: 0; display: block; clear: both; font-size: inherit; color: #333;}

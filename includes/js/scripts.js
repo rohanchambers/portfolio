@@ -1,3 +1,4 @@
+
 SITE = {
 
 };
@@ -11,9 +12,8 @@ $(document).ready(function() {
 	SITE.OPACITY.initialise();
 	SITE.TARGETBLANK.initialise();
 	SITE.NAVOPACITY.initialise();
-	SITE.BORDEROPACITY.initialise();	
-	SITE.EQUIDISTANT.initialise();	
-	SITE.EQUIDISTANT2.initialise();			
+	SITE.BORDEROPACITY.initialise();
+	SITE.JUSTIFYNAV.initialise();		
 });
 
 // *******************************************************************************************
@@ -322,4 +322,35 @@ SITE.EQUIDISTANT2 = {
 		}
 	}
 	
+};
+
+// *******************************************************************************************
+SITE.JUSTIFYNAV = {
+	initialise: function() {
+	
+		$.fn.justifyNav = function() {
+			return this.each(function() {
+			var $this = $(this),
+			$children = $this.children(),
+			containerWidth = $this.width(),
+			linksWidth = 0,
+			count = $children.length;
+			
+			$children.each(function() {
+			linksWidth += $(this).width();
+		});
+		// Don't give the last item or the 2nd to last item any right margin, then float the last item right.
+		// This will account for small errors in JQuery's calculation of the item widths.
+		// Otherwise the list can overflow the container!
+		var linkSpacing = Math.floor((containerWidth - linksWidth) / (count - 1));
+			$children
+				.css('margin-right', linkSpacing + "px")
+				.filter(":last")
+				.css({"margin-right":0,"float":"right"})
+				.prev()
+				.css({"margin-right":0});
+			});
+		};			
+		$('#clients ul').justifyNav();		
+	}
 };

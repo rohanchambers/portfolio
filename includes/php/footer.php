@@ -55,7 +55,7 @@
 						<li><a href="/case-study/bridging-the-gap/"><img src="../../img/icons/clients/2012logo.jpg" alt="2012logo" /></a></li>
 						<li><a href="/case-study/mycallaway/"><img src="../../img/icons/clients/callaway.jpg" alt="callaway" /></a></li>
 					</ul>
-					<ul class="client-row2">
+					<ul>
 						<li><a href="/case-study/lenovo/"><img src="../../img/icons/clients/lenovo.jpg" alt="Lenovo" /></a></li>
 						<li><a href="/case-study/evian/"><img src="../../img/icons/clients/evian.jpg" alt="Evian" /></a></li>
 						<li><a href="/case-study/kleenex/"><img src="../../img/icons/clients/kleenex.jpg" alt="Kleenex" /></a></li>

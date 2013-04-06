@@ -1,6 +1,6 @@
 <?php
 $author = 'Rohan Chambers';
-$browserDescription = 'Instagram your inspiration in Red, Silver or Blue to claim a can. Below is a small get started instruction outline of how the site works and integrates with Instagram.';
+$browserDescription = 'Join us in celebrating the launch of our new Limited Edition Collections range and you could win: &pound;1000 of Vouchers.';
 $browserKeywords = 'rohan chambers, rohan, chambers, freelance front end developer, front end developer, web designer, web development, xhtml, css, html5, css3, jquery, w3c, web standards';
 $browserTitle = 'Kleenex Collection | RohanChambers.net';
 $classBody = 'case-study';

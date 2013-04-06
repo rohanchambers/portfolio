@@ -5,6 +5,14 @@
 	</div>			
 	<ul id="carousel">
 		<li>
+			<a href="case-study/kleenex/collection"><img src="../../img/pages/home/carousel/kleenex-collection.jpg" alt="Kleenex Collection" width="960" height="420" /></a>
+			<div class="captions">
+			    <h3>Kleenex Collection</h3>
+				<p>I helped develop the front end of this Facebook app which lets the user design his/her Kleenex box to be entered into a gallery of which the best will selected to win a prize.<br>
+			    <a class="find-more" href="case-study/kleenex/collection">Find out more</a></p>
+			</div>													
+		</li>
+		<li>
 			<a href="case-study/redbull/"><img src="../../img/pages/home/carousel/redbull.jpg" alt="Redbull, Our Editions" width="960" height="420" /></a>
 			<div class="captions">
 			    <h3>Redbull Editions, Instagram your Inspiration</h3>

@@ -58,7 +58,7 @@
 					<ul class="client-row2">
 						<li><a href="/case-study/lenovo/"><img src="../../img/icons/clients/lenovo.jpg" alt="Lenovo" /></a></li>
 						<li><a href="/case-study/evian/"><img src="../../img/icons/clients/evian.jpg" alt="Evian" /></a></li>
-						<li><a href="/case-study/kleenex/"><img src="../../img/icons/clients/kleenex.jpg" alt="Kleenex" /></a></li>
+						<li><a href="/case-study/kleenex/collection"><img src="../../img/icons/clients/kleenex.jpg" alt="Kleenex" /></a></li>
 						<li><a href="/case-study/redbull/"><img src="../../img/icons/clients/redbull.jpg" alt="Redbull" /></a></li>
 						<li><a href="/case-study/tesco/tescoWines"><img src="../../img/icons/clients/tesco.jpg" alt="Tesco" /></a></li>
 						<li><a href="/case-study/tiger/"><img src="../../img/icons/clients/tiger.jpg" alt="Tiger Beer" /></a></li>

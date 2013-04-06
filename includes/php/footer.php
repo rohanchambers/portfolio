@@ -53,9 +53,9 @@
 						<li><a href="/case-study/harry-potter-part-2/"><img src="../../img/icons/clients/ea.jpg" alt="ea" /></a></li>
 						<li><a href="/case-study/bbc-6music/"><img src="../../img/icons/clients/bbc.jpg" alt="BBC" /></a></li>
 						<li><a href="/case-study/bridging-the-gap/"><img src="../../img/icons/clients/2012logo.jpg" alt="2012logo" /></a></li>
-						<li><a href="/case-study/mycallaway/"><img src="../../img/icons/clients/callaway.jpg" alt="callaway" /></a></li>
+						<li class="last"><a href="/case-study/mycallaway/"><img src="../../img/icons/clients/callaway.jpg" alt="callaway" /></a></li>
 					</ul>
-					<ul>
+					<ul class="client-row2">
 						<li><a href="/case-study/lenovo/"><img src="../../img/icons/clients/lenovo.jpg" alt="Lenovo" /></a></li>
 						<li><a href="/case-study/evian/"><img src="../../img/icons/clients/evian.jpg" alt="Evian" /></a></li>
 						<li><a href="/case-study/kleenex/"><img src="../../img/icons/clients/kleenex.jpg" alt="Kleenex" /></a></li>
@@ -63,7 +63,7 @@
 						<li><a href="/case-study/tesco/tescoWines"><img src="../../img/icons/clients/tesco.jpg" alt="Tesco" /></a></li>
 						<li><a href="/case-study/tiger/"><img src="../../img/icons/clients/tiger.jpg" alt="Tiger Beer" /></a></li>
 						<li><a href="/case-study/pgtips/"><img src="../../img/icons/clients/pg.jpg" alt="PG Tips" /></a></li>
-						<li><a href="/case-study/bulmers/"><img src="../../img/icons/clients/bulmers.jpg" alt="PG Tips" /></a></li>
+						<li class="last"><a href="/case-study/bulmers/"><img src="../../img/icons/clients/bulmers.jpg" alt="PG Tips" /></a></li>
 					</ul>
 				</div>
 				<div id="copyright">

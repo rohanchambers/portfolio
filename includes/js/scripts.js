@@ -14,7 +14,7 @@ $(document).ready(function() {
 	SITE.TARGETBLANK.initialise();
 	SITE.NAVOPACITY.initialise();
 	SITE.BORDEROPACITY.initialise();
-	SITE.JUSTIFYNAV.initialise();		
+	//SITE.JUSTIFYNAV.initialise();		
 });
 
 // *******************************************************************************************

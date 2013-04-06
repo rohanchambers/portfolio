@@ -26,6 +26,12 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 				</ul>	
 				<ul id="case-study">
 					<li class="all web">
+						<a href="case-study/kleenex/collection">
+							<img src="img/pages/portfolio/kleenex-collage.jpg" alt="Kleenex Collection" />
+							<h3>Kleenex<span>| Collection</span></h3>
+						</a>	
+					</li>					
+					<li class="all web">
 						<a href="case-study/redbull/">
 							<img src="img/pages/portfolio/redbull.jpg" alt="Redbull Our Editions" />
 							<h3>Redbull<span>| Editions</span></h3>

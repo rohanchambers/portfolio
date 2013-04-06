@@ -130,7 +130,7 @@ a, a:hover, a:active, a:focus { outline:none;}
 p a { font-size: inherit;}
 .ie7 p a, .ie7 #copyright a, .ie7 ul.bullets a { font-size: 1em;}
 .hr { background:url(../../img/global/hr-line.png) no-repeat; height:5px; margin:20px 0 5px; }
-.bullets a { font-size: inherit; font-family: Arial, Helvetica, Verdana!important;}
+.bullets a { font-size: inherit; text-transform: none!important; font-family: Arial, Helvetica, Verdana!important;}
 .services p { padding:0 0 8px;}
 
 nav { font-size: 1.2em; letter-spacing: 1px; text-transform:uppercase;}

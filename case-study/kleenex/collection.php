@@ -22,7 +22,7 @@ $thisPage='portfolio';
 					<li><strong>Client: </strong>Kleenex</li>	
 					<li><strong>Agency: </strong><a href="http://www.wearesocial.net/" class="targetBlank">We Are Social</a></li>								
 					<li><strong>Technologies: </strong>HTML5, CSS3, JavaScript/jQuery</li>
-					<li><strong>View site:</strong> <a href="http://www.facebook.com/KleenexUK/app_528618900509543" class="targetBlank">Facebook.com/KleenexUK</a><br>						
+					<li><strong>View App:</strong> <a href="http://www.facebook.com/KleenexUK/app_528618900509543" class="targetBlank">Facebook.com/KleenexUK</a><br>						
 					<li><strong>Tasks:</strong></li>
 					<li>
 						<p>I helped develop the front end of this Facebook app which lets the user design his/her Kleenex box to be entered into a gallery of which the best will selected to win a prize.</p>					

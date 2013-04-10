@@ -148,7 +148,7 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 							<ul class="star-rating">
 								<li></li>
 								<li></li>
-								<li class="no-star"></li>
+								<li></li>
 								<li class="no-star"></li>
 								<li class="no-star"></li>				
 							</ul>					
@@ -172,6 +172,15 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 								<li></li>
 								<li></li>
 								<li></li>				
+							</ul>					
+						</li>   
+						<li>Git Hub, Source Tree
+							<ul class="star-rating">
+								<li></li>
+								<li></li>
+								<li></li>
+								<li class="no-star"></li>
+								<li class="no-star"></li>				
 							</ul>					
 						</li>   
 						<li>SVN Turtoise / Synchro SVN(MacOSX)

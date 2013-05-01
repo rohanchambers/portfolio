@@ -114,7 +114,7 @@ SITE.QUICKSAND = {
 	initialise: function() {
 		var speed = 800;
 				
-		$('#filter-nav a').bind('click', function(){
+		$('#filter-nav a').bind('click', function(e){
 	
 			var list = $(this).attr('class');
 			
@@ -132,7 +132,7 @@ SITE.QUICKSAND = {
 			} else{
 				return false;
 			};		
-				
+			e.preventDefault();
 		});
 	}
 };

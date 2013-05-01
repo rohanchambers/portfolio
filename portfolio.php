@@ -21,7 +21,7 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 					<li><a href="#" title="Web" class="web">Web</a></li>
 					<li><a href="#" title="Facebook Apps." class="apps">Facebook Apps.</a></li>
 					<li><a href="#" title="Graphics" class="graphics">Graphics</a></li>
-					<li><a href="#" title="3D/Video" class="video">3D/Video</a></li>
+					<li id="video"><a href="#" title="3D/Video" class="video">3D/Video</a></li>
 					<li><a href="#" title="Freelance" class="freelance">Freelance</a></li>					
 				</ul>	
 				<ul id="case-study">

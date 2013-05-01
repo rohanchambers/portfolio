@@ -444,9 +444,12 @@ label { display:block; float:left; clear:left; margin:5px 0 10px; width:270px; l
 	#scroll, #what-i-do, #latest-posts, #sites-i-follow, #cv, #services-content, #get-a-quote, 
 	#follow-me, #twitter, .captions, 
 	.tabs, .star-rating, .hr, #copyright img { display: none;}
+
+ul.case-study-details li strong, .case-study #left-col a.go-back { 
+font-family: 'rockwell', Arial, Helvetica, Verdana; text-transform: uppercase;}
 	
 /* 	header { padding: 0 15px!important; background: red} */
-	h1, h2, #contact h2:first-child { font-size: 7em;}
+	h1, h2, #contact h2 { font-size: 7em; }
 	p, ul.bullets, ol { font-size: 4em;}
 	ul.bullets li { list-style-image: none; margin-left: 40px;}
 	ol { font-size: 2.5em}
@@ -464,7 +467,7 @@ label { display:block; float:left; clear:left; margin:5px 0 10px; width:270px; l
 	
 	nav { width: 100%; float: left; font-size: 2.3em; text-transform:uppercase;}
 	nav span { padding-top: 15px; font-size: .8em;}
-	nav ul li { margin: 0 14px 0 0; padding: 10px 20px; height: auto; width: auto;}
+	nav ul li { margin: 0 14px 0 0; padding: 10px 34px; height: auto; width: auto;}
 	nav ul li.last { margin-right: 0;}
 	nav ul li a { background: none;}
 	#sharethis {  margin: -233px 5px 0 0;}
@@ -472,10 +475,10 @@ label { display:block; float:left; clear:left; margin:5px 0 10px; width:270px; l
 	#follow-me, #clients { float: left; width: 960px; margin-top: 50px;}
 	#follow-me img { width: 100px; height: 100px;}
 	#follow-me ul li img { margin-right: 25px;}
-	#clients ul li { width: 200px; height: 100px; margin: 0 10px 10px 0;}
+	#clients ul li { width: 200px; height: 100px; margin: 0 40px 40px 0!important;}
 	#clients img { width: 200px; height: 100px; opacity: 1;}
 	
-	#contact h2 { font-size: 5.5em;}
+	#contact p { margin-bottom: 25px;}
 	#contact-list li a { line-height: 70px;}
 	#contact-list, .siteMap li { width: auto; font-size: 2.75em;}
 	#contact-list li { clear: both; width: 500px!important; height: 60px; padding-bottom: 55px;}
@@ -484,18 +487,21 @@ label { display:block; float:left; clear:left; margin:5px 0 10px; width:270px; l
 		
 	#portfolio p { width: 96%;}
 	#portfolio ul#filter-nav { height: auto; overflow: hidden; margin: 20px 0;}
-	#portfolio ul#filter-nav li a { font-size: 4em; background-color: #171922; color: #FFF; padding: 10px 20px; text-decoration: none!important;}
+	#portfolio ul#filter-nav li a { display: block; font-size: 4em; background-color: #171922; color: #FFF; height: 80px; line-height: 80px; padding: 0px 30px; text-decoration: none!important;}
+	#portfolio ul#filter-nav li { margin-left: 20px;}
+	#portfolio ul#filter-nav li#video { margin: 0!important;}
 	#portfolio li h3 { font-size: 2.5em; bottom: -80px; line-height: 1em;}
-	#portfolio ul#case-study li { width: 450px; height: 285px; margin-bottom: 100px; padding: 0; margin-right: 20px;}
+	#portfolio ul#case-study li { width: 450px; height: 285px; margin-bottom: 100px; padding: 0; /* margin: 0 20px 20px 0; */}
 	#portfolio ul#case-study li img { width: 100%; height: 285px;}
 	
 	.contact #left-col p { width: 565px;}
 	.case-study #left-col, .case-study #right-col { display: block; width: 96%;}
-	.case-study #left-col h2 { margin: 0; float: none; font-size: 6em; font-weight: bold;}
+	.case-study #left-col h2 { margin: 0; float: none; font-size: 6em;}
 	.case-study #left-col ul { font-size: 2.56em;}
 	.case-study #left-col ul p { font-size: 1.3em;}
-	.case-study #right-col { float: none;}
-	.case-study #right-col ul li img { max-width: 100%;}
+	.case-study #right-col { float: none; width: 100%;}
+	.case-study #right-col ul li { width: 100%;}
+	.case-study #right-col ul li img { width: 100%; max-height: auto;}
 
 	.case-study #left-col #controls { float: left; margin: 20px 0 75px 0;}
 	.case-study #left-col #controls li { margin-right: 40px;}
@@ -518,7 +524,7 @@ label { display:block; float:left; clear:left; margin:5px 0 10px; width:270px; l
 	#left-col, #right-col { width: 100%; clear: both;}
 	#left-col h2, #right-col h2 { margin-top: 50px; clear: both;}
 	#left-col h2 { float: left;}
-	#right-col h3 { font-size: 6em; font-weight: bold!important; margin-top: 10px;}
+	#right-col h3 { font-size: 6em; font-weight: normal!important; margin-top: 10px;}
 	
 	footer { background: url(../../img/global/bg-footer.jpg);}
 	footer h2 { font-size: 6em;}

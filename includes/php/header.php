@@ -17,7 +17,7 @@
 
 	<meta name="viewport" content="width=device-width">
 	<link rel="shortcut icon" href="/favicon.ico" />  
-	<link type="text/css" rel="stylesheet" href="/includes/css/styles.css">
+	<link type="text/css" rel="stylesheet" href="/includes/css/styles.min.css">
 	<script src="/includes/js/libs/modernizr-2.5.2.min.js"></script>
 </head>
 

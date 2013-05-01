@@ -11,7 +11,8 @@ $thisPage='portfolio';
 		<section id="case-study">
 			<div id="left-col">
 				<h1>Case study</h1>
-				<ul id="controls">			
+				<ul id="controls">	
+					<li><a href="../bulmers/begin" class="go-back" title="Previous Project"></a></li>		
 					<li><a href="/portfolio" class="go-all" title="All Projects"></a></li>
 					<li><a href="../redbull" class="go-next" title="Next Project"></a></li>
 				</ul>

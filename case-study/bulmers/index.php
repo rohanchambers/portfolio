@@ -12,7 +12,7 @@ $thisPage='portfolio';
 			<div id="left-col">
 				<h1>Case study</h1>
 				<ul id="controls">			
-					<li><a href="../tesco/TescoWines" class="go-back" title="All Projects"></a></li>
+					<li><a href="../tesco/TescoWines" class="go-back" title="Previous Project"></a></li>
 					<li><a href="/portfolio" class="go-all" title="All Projects"></a></li>
 					<li><a href="../london2012/supportyourteam" class="go-next" title="Next Project"></a></li>
 				</ul>

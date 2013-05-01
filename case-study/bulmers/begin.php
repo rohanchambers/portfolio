@@ -13,7 +13,7 @@ $thisPage='portfolio';
 				<h1>Case study</h1>
 				<ul id="controls">			
 					<li><a href="/portfolio" class="go-all" title="All Projects"></a></li>
-					<li><a href="../redbull" class="go-next" title="Next Project"></a></li>
+					<li><a href="../kleenex/collection" class="go-next" title="Next Project"></a></li>
 				</ul>
 				<div class="hr"></div>			
 				<h2>Bulmers, Begin with a Bulmers</h2>
@@ -21,11 +21,11 @@ $thisPage='portfolio';
 					<li><strong>Date: </strong>May 2013</li>
 					<li><strong>Client: </strong>Bulmers</li>	
 					<li><strong>Agency: </strong><a href="http://www.wearesocial.net/" class="targetBlank">We Are Social</a></li>								
-					<li><strong>Technologies: </strong>HTML5, CSS3, JavaScript/jQuery</li>
+					<li><strong>Technologies: </strong>HTML5, CSS3, Mobile dev, JavaScript/jQuery</li>
 					<li><strong>View App:</strong> <a href="http://www.facebook.com/Bulmers/app_451962378216467" class="targetBlank">Facebook.com/BulmersUK</a><br>						
 					<li><strong>Tasks:</strong></li>
 					<li>
-						<p>I developed the front end of this Facebook app which lets the user share their Bulmers moments on Facebook or on Twitter, using #beginwithabulmers to win great prizes.</p>					
+						<p>I developed the front end of this Facebook app for both desktop and mobile which lets the user share their Bulmers moments on Facebook or on Twitter, using #beginwithabulmers to win great prizes.</p>					
 						<p>Our competition is powered by your good times. The more Facebook posts and Tweets you share with us the more rewards we'll unlock. With new weekly winners and massive prizes on offer we've got it covered if you keep the ideas flowing. Enter now to get involved and keep checking back to see when the next prize is revealed.</p>					
 					</li>
 				</ul>

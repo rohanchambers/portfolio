@@ -27,6 +27,12 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 				<ul id="case-study">
 					<li class="all apps">
 						<a href="case-study/kleenex/vote">
+							<img src="img/pages/portfolio/cuppaclub.jpg" alt="PG tips, Cuppa Club" />
+							<h3>PG tips<span>| Cuppa Club</span></h3>
+						</a>	
+					</li>					
+					<li class="all apps">
+						<a href="case-study/kleenex/vote">
 							<img src="img/pages/portfolio/kleenex-vote.jpg" alt="Kleenex Vote" />
 							<h3>Kleenex<span>| Vote</span></h3>
 						</a>	

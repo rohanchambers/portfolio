@@ -35,7 +35,7 @@ $thisPage='portfolio';
 							<li>Give your Instagram Wings: The most inspiring Instagrams as chosen by our editors will be exhibited in cities across the UK.</li>
 						</ul>
 					</li>
-					<li><strong>View site:</strong> <a href="https://www.facebook.com/PGtips/app_495189443882412" class="targetBlank">http://www.facebook.com/PGtips</a></li>
+					<li><strong>View site:</strong> <a href="http://www.facebook.com/PGtips/app_495189443882412" class="targetBlank">http://www.facebook.com/PGtips</a></li>
 				</ul>
 				<div class="hr"></div>	
 				<ul class="case-study-details">

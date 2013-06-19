@@ -12,9 +12,8 @@ $thisPage='portfolio';
 			<div id="left-col">
 				<h1>Case study</h1>
 				<ul id="controls">			
-					<li><a href="../lenovo/" class="go-back" title="Previous Project"></a></li>
 					<li><a href="/portfolio" class="go-all" title="All Projects"></a></li>
-					<li><a href="../kleenex/" class="go-next" title="Next Project"></a></li>
+					<li><a href="../kleenex/vote" class="go-next" title="Next Project"></a></li>
 				</ul>
 				<div class="hr"></div>			
 				<h2>PG tips, Cuppa Club</h2>

@@ -26,6 +26,12 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 				</ul>	
 				<ul id="case-study">
 					<li class="all apps">
+						<a href="case-study/tesco/thesocialwine">
+							<img src="img/pages/portfolio/enotria-thesocialwine.jpg" alt="Enotria, The Social Wine" />
+							<h3>Enotria<span>| The Social Wine</span></h3>
+						</a>	
+					</li>					
+					<li class="all apps">
 						<a href="case-study/pgtips/cuppaclub">
 							<img src="img/pages/portfolio/cuppaclub.jpg" alt="PG tips, Cuppa Club" />
 							<h3>PG tips<span>| Cuppa Club</span></h3>

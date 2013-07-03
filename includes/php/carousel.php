@@ -5,6 +5,22 @@
 	</div>			
 	<ul id="carousel">
 		<li>
+			<a href="case-study/tesco/thesocialwines"><img src="../../img/pages/home/carousel/enotria-thesocialwine.jpg" alt="Enotria, The Social Wine" width="960" height="420" /></a>
+			<div class="captions">
+			    <h3>Enotria, The Social Wine</h3>
+				<p>I developed all of the front end build for Enotria, The Social Wine Facebook app. while working closely with the backend developers that were integrating my templates in the PHP Fat-Free Framework. Take part in creating the world's first community sourced wine.</p>
+			    <a class="find-more" href="case-study/tesco/thesocialwine">Find out more</a></p>
+			</div>													
+		</li>
+		<li>
+			<a href="case-study/pgtips/cuppaclub"><img src="../../img/pages/home/carousel/pgtips-cuppaclub.jpg" alt="Kleenex Collection" width="960" height="420" /></a>
+			<div class="captions">
+			    <h3>PG tips Cuppa Club</h3>
+				<p>I developed all of the front end build for the PG tips, Cuppa Club Facebook app. while working closely with the backend developers that were integrating my templates in the PHP Fat-Free Framework.</p>
+			    <a class="find-more" href="case-study/pgtips/cuppaclub">Find out more</a></p>
+			</div>													
+		</li>
+		<li>
 			<a href="case-study/kleenex/collection"><img src="../../img/pages/home/carousel/kleenex-collection.jpg" alt="Kleenex Collection" width="960" height="420" /></a>
 			<div class="captions">
 			    <h3>Kleenex Collection</h3>

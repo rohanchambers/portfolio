@@ -78,6 +78,6 @@
 		<script>window.jQuery || document.write('<script src="/includes/js/libs/jquery-1.8.3.min.js"><\/script>')</script>
 		<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
 		<script src="/includes/js/scripts.js"></script>
-		<!-- <?php include("analytics.php"); ?> -->
+		<?php include("analytics.php"); ?>
 </body>
 </html>

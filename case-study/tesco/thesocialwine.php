@@ -29,7 +29,7 @@ $thisPage='portfolio';
 						<p>Take part in creating the world's first community sourced wine.<br>
 						We're launching a completely bespoke bottle of wine, created entirely by you - our online community. There are fantastic prizes up for grabs and one lucky winner will get the chance to visit the vineyards in South Africa and experience first-hand how the wine is made by the local community.</p>
 					</li>
-					<li><strong>View site:</strong> <a href="https://www.facebook.com/tesco/app_210250815791897" class="targetBlank">http://www.facebook.com/Tesco</a></li>
+					<li><strong>View site:</strong> <a href="http://www.facebook.com/tesco/app_210250815791897" class="targetBlank">http://www.facebook.com/Tesco</a></li>					
 				</ul>
 				<div class="hr"></div>	
 				<ul class="case-study-details">

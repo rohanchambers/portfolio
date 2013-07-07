@@ -19,7 +19,7 @@ $thisPage='portfolio';
 				<div class="hr"></div>			
 				<h2>PG tips, Cuppa Club</h2>
 				<ul class="case-study-details">
-					<li><strong>Date: </strong>June 2012</li>
+					<li><strong>Date: </strong>June 2013</li>
 					<li><strong>Client: </strong>PG tips</li>	
 					<li><strong>Agency: </strong><a href="http://www.wearesocial.net/" class="targetBlank">We Are Social</a></li>								
 					<li><strong>Technologies: </strong>HTML5, CSS3, JavaScript/jQuery, PHP Fat-Free Framework</li>	

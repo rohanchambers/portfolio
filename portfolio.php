@@ -28,7 +28,7 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 					<li class="all apps">
 						<a href="case-study/tesco/thesocialwine">
 							<img src="img/pages/portfolio/enotria-thesocialwine.jpg" alt="Enotria, The Social Wine" />
-							<h3>Enotria<span>| The Social Wine</span></h3>
+							<h3>Tesco<span>| The Social Wine</span></h3>
 						</a>	
 					</li>					
 					<li class="all apps">

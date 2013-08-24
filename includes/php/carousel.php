@@ -8,7 +8,7 @@
 			<a href="case-study/tesco/thesocialwine"><img src="../../img/pages/home/carousel/enotria-thesocialwine.jpg" alt="Tesco, The Social Wine" width="960" height="420" /></a>
 			<div class="captions">
 			    <h3>Enotria, The Social Wine</h3>
-				<p>I developed all of the front end build for Tesco, The Social Wine Facebook app. while working closely with the backend developers that were integrating my templates in the PHP Fat-Free Framework. Take part in creating the world's first community sourced wine.</p>
+				<p>I developed all of the front end build for Tesco, The Social Wine Facebook app. while working closely with the backend developers that were integrating my templates in the PHP Fat-Free Framework. Take part in creating the world's first community sourced wine.
 			    <a class="find-more" href="case-study/tesco/thesocialwine">Find out more</a></p>
 			</div>													
 		</li>
@@ -16,7 +16,7 @@
 			<a href="case-study/pgtips/cuppaclub"><img src="../../img/pages/home/carousel/pgtips-cuppaclub.jpg" alt="PG tips Cuppa Club" width="960" height="420" /></a>
 			<div class="captions">
 			    <h3>PG tips Cuppa Club</h3>
-				<p>I developed all of the front end build for the PG tips, Cuppa Club Facebook app. while working closely with the backend developers that were integrating my templates in the PHP Fat-Free Framework.</p>
+				<p>I developed all of the front end build for the PG tips, Cuppa Club Facebook app. while working closely with the backend developers that were integrating my templates in the PHP Fat-Free Framework.<br />
 			    <a class="find-more" href="case-study/pgtips/cuppaclub">Find out more</a></p>
 			</div>													
 		</li>

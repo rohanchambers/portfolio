@@ -37,7 +37,7 @@ $thisPage='portfolio';
 							<li>Finally share your postcard with your friends for a laugh or just to make them jealous of your upcoming holiday!</li>
 						</ul>
 					</li>
-					<li><strong>View site:</strong> <a href="https://www.facebook.com/VolvicUK/app_434850776623146" class="targetBlank">http://www.facebook.com/VolvicUK</a></li>					
+					<li><strong>View site:</strong> <a href="http://www.facebook.com/VolvicUK/app_434850776623146" class="targetBlank">http://www.facebook.com/VolvicUK</a></li>					
 				</ul>
 				<div class="hr"></div>	
 				<ul class="case-study-details">

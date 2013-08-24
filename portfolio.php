@@ -26,6 +26,12 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 				</ul>	
 				<ul id="case-study">
 					<li class="all apps">
+						<a href="case-study/moet/">
+							<img src="img/pages/portfolio/moetMomente.jpg" alt="Moet Momente" />
+							<h3>Moet &amp; Chandon<span>| #MoetMomente</span></h3>
+						</a>	
+					</li>					
+					<li class="all apps">
 						<a href="case-study/volvic/">
 							<img src="img/pages/portfolio/volvic-postcards.jpg" alt="Volvic, Touch of Tropical Postcards" />
 							<h3>Volvic<span>| Touch of Tropical Postcards</span></h3>

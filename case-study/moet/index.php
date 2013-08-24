@@ -25,7 +25,7 @@ $thisPage='portfolio';
 					<li><strong>Tasks:</strong> Development of holding page</li>			
 					<li><strong>Summary: </strong></li>
 					<li>
-						<p></p>
+						<p>I built the holding page for the #Mo&euml;t Momente site using the Tumblr platform.</p>
 					</li>
 					<li><strong>View site:</strong> <a href="http://moetmomente.de/" class="targetBlank">MoetMomente.de/</a></li>					
 				</ul>

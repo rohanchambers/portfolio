@@ -25,7 +25,7 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 					<li><a href="#" title="Freelance" class="freelance">Freelance</a></li>					
 				</ul>	
 				<ul id="case-study">
-					<li class="all apps">
+					<li class="all web">
 						<a href="case-study/moet/">
 							<img src="img/pages/portfolio/moetMomente.jpg" alt="Moet Momente" />
 							<h3>Moet &amp; Chandon<span>| #MoetMomente</span></h3>

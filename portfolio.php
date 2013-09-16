@@ -25,6 +25,12 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 					<li><a href="#" title="Freelance" class="freelance">Freelance</a></li>					
 				</ul>	
 				<ul id="case-study">
+					<li class="all apps">
+						<a href="case-study/pgtips/cuppaclub2">
+							<img src="img/pages/portfolio/pgtipscuppaclub2.jpg" alt="PG tips Cuppa Club 2" />
+							<h3>PG tips<span>| Cuppa Club 2</span></h3>
+						</a>	
+					</li>					
 					<li class="all web">
 						<a href="case-study/moet/">
 							<img src="img/pages/portfolio/moetMomente.jpg" alt="Moet Momente" />

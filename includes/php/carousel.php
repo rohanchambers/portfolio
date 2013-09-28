@@ -5,6 +5,14 @@
 	</div>			
 	<ul id="carousel">
 		<li>
+			<a href="case-study/netflix/"><img src="../../img/pages/home/carousel/spoilerfoiler.jpg" alt="Netflix Spoiler Foiler" width="960" height="420" /></a>
+			<div class="captions">
+			    <h3>Netflix, Breaking Bad Spoiler Foiler</h3>
+			    <p>I built all the front end on this project. Behind on Breaking Bad? Now you can check your feed without fear. Any tweets with danger words get blacked out, as below. When you've caught up, it's safe to go back to normal Twitter. Until Heisenberg comes knocking again.</p>
+			    <a class="find-more" href="case-study/netflix/">Find out more</a></p>
+			</div>													
+		</li>
+		<li>
 			<a href="case-study/tesco/thesocialwine"><img src="../../img/pages/home/carousel/enotria-thesocialwine.jpg" alt="Tesco, The Social Wine" width="960" height="420" /></a>
 			<div class="captions">
 			    <h3>Enotria, The Social Wine</h3>

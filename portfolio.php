@@ -25,6 +25,12 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 					<li><a href="#" title="Freelance" class="freelance">Freelance</a></li>					
 				</ul>	
 				<ul id="case-study">
+					<li class="all apps">
+						<a href="case-study/bulmers/harvestimator">
+							<img src="img/pages/portfolio/bulmers-harvestimator2.jpg" alt="Bulmers Harvestimator" />
+							<h3>Bulmers<span>| Harvestimator</span></h3>
+						</a>	
+					</li>					
 					<li class="all web">
 						<a href="case-study/netflix/">
 							<img src="img/pages/portfolio/spoilerfoiler.jpg" alt="Breaking Bad Spoiler Foiler" />

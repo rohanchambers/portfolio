@@ -109,8 +109,8 @@ h1, h2, h3, nav, nav span, #tweet, #portfolio ul li a, ul.case-study-details li 
 font-family: 'FuturaLT-CondensedBold', Arial, Helvetica, Verdana; text-transform: uppercase;}
 .portfolio h3, #tweet { font-family: 'rockwell', Arial, Helvetica, Verdana; text-transform: none;}
 h1, h2 { font-size: 1.8em; line-height: 1; padding-bottom: 15px; color: #0074c0; font-weight: normal; clear: both;}
-h3 { font-size: 1.4em; font-weight: bold; color: #333333; padding-bottom: 5px; text-decoration: none;}
-.portfolio h3 { position: absolute; bottom: -30px; left: 0; display: block; clear: both; font-size: inherit; color: #333;}
+h3 { font-size: 1.4em; font-weight: normal; color: #333333; padding-bottom: 5px; text-decoration: none;}
+.portfolio h3 { position: absolute; bottom: -30px; left: 0; display: block; clear: both; font-size: inherit; font-weight: bold; color: #333;}
 .ie7 .portfolio h3 { font-size: 1em; padding-top: 4px;}
 	h3 span { font-size: 1.1em; color: #333333; font-weight: normal;}
 .accessibility h3 { padding: 10px 0;}
@@ -169,7 +169,7 @@ section { margin: 25px 0 10px 0; height: auto; overflow: hidden; clear: both;}
 section#carousel-container {  margin: 0 0 -10px 0; clear: both;}
 footer { height: auto; overflow: hidden; clear: both;}
 #footer-wrapper { width: 100%; background: url(../../img/global/bg-footer.jpg);}
-#logo a { float: left; margin: 36px 0 0 0; width: 175px; height: 55px; background: url(../../img/global/logo.png) no-repeat 0 0; text-indent: -9999px;}
+#logo a { float: left; margin: 35px 0 0 0; width: 175px; height: 55px; background: url(../../img/global/logo.png) no-repeat 0 0; text-indent: -9999px;}
 
 #scroll { position: absolute; top: 0; right: 15px; width: 46px; height: 46px;}
 #scroll .arrow-down { display: block; width: 46px; height: 46px; cursor: pointer; background: transparent url(../../../img/btn/sprite.png) no-repeat -287px 0; }

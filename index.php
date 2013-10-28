@@ -30,7 +30,7 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 						<li>Responsive web design</li>
 						<li>iPhone/iPad Mobile Websites</li>
 						<li>JavaScript/jQuery (Integration level)</li>
-						<li>PHP (Integration level)</li>
+						<li>PHP (Basic level)</li>
 						<li>Wordpress Theme Development</li>
 						<li>Coding to W3C Web Standards</li>
 						<li>Accessibility Standards</li>

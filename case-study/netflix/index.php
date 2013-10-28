@@ -25,7 +25,7 @@ $thisPage='portfolio';
 					<li><strong>Tasks:</strong> Front end development of site</li>			
 					<li><strong>Summary: </strong></li>
 					<li>
-						<p>I built all the front end on this project.</p>
+						<p>I built all the front end development on this project.</p>
 						<p>Behind on Breaking Bad? Now you can check your feed without fear. Any tweets with danger words get blacked out, as below. When you've caught up, it's safe to go back to normal Twitter. Until Heisenberg comes knocking again on Monday.</p>
 					</li>
 					<li><strong>View site:</strong> <a href="http://www.spoilerfoiler.com/" class="targetBlank">SpoilerFoiler.com/</a></li>					

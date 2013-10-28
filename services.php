@@ -135,10 +135,10 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 								<li class="no-star"></li>				
 							</ul>
 						</li>
-						<li>PHP (Integration level only)
+						<li>PHP (Basic level)
 							<ul class="star-rating">
 								<li></li>
-								<li></li>
+								<li class="no-star"></li>
 								<li class="no-star"></li>
 								<li class="no-star"></li>
 								<li class="no-star"></li>				

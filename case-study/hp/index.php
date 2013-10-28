@@ -2,7 +2,7 @@
 $author = 'Rohan Chambers';
 $browserDescription = 'This website is primarily designed to be an online portfolio presence for Rohan Chambers, a freelance Web Designer/Developer based in London, UK.';
 $browserKeywords = 'rohan chambers, rohan, chambers, freelance front end developer, front end developer, web designer, web development, xhtml, css, html5, css3, jquery, w3c, web standards';
-$browserTitle = 'Bulmers, Harvestimator | RohanChambers.net';
+$browserTitle = 'HP, Movember | RohanChambers.net';
 $classBody = 'case-study';
 $thisPage='portfolio';
 ?>
@@ -11,17 +11,18 @@ $thisPage='portfolio';
 		<section id="case-study">
 			<div id="left-col">
 				<h1>Case study</h1>
-				<ul id="controls">								
+				<ul id="controls">
+					<li><a href="../harry-potter-part-2/" class="go-back" title="Previous Project"></a></li>												
 					<li><a href="/portfolio" class="go-all" title="All Projects"></a></li>
-					<li><a href="../netflix/" class="go-next" title="Next Project"></a></li>
+					<li><a href="../pgtips/cuppaclub2" class="go-next" title="Next Project"></a></li>
 				</ul>
 				<div class="hr"></div>			
-				<h2>Bulmers Harvestimator</h2>
+				<h2>HP, Movember</h2>
 				<ul class="case-study-details">
-					<li><strong>Date: </strong>October 2013</li>
-					<li><strong>Client: </strong>Bulmers</li>	
+					<li><strong>Date: </strong>November 2013</li>
+					<li><strong>Client: </strong>HP</li>	
 					<li><strong>Agency: </strong><a href="http://www.wearesocial.net/" class="targetBlank">We Are Social</a></li>								
-					<li><strong>Technologies: </strong>HTML5, CSS3, jQuery, Responsive development</li>	
+					<li><strong>Technologies: </strong>HTML5, CSS3, jQuery</li>	
 					<li><strong>Tasks:</strong> Front end development of site</li>			
 					<li><strong>Summary: </strong></li>
 					<li>
@@ -29,7 +30,7 @@ $thisPage='portfolio';
 						<p>We've been making Bulmers cider here in Hereford for over 125 years, and we take our cider-making very seriously indeed.</p>
 						<p>BUT, it isn't all work, work, work down here on Broome Farm, no sir! For this year's apple harvest, we want you - the great Bulmers fans - to be a part of it. Take your guesses as we challenge our trees to the ultimate harvest showdown, for your chance to win FANTASTIC PRIZES!</p>
 					</li>
-					<li><strong>View app:</strong> <a href="http://www.facebook.com/Bulmers/app_368187236649450" class="targetBlank">http://www.facebook.com/Bulmers/</a></li>					
+					<li><strong>View app:</strong> <a href="http://www.facebook.com/Bulmers/app_368187236649450" class="targetBlank">https://www.facebook.com/Bulmers/</a></li>					
 				</ul>
 				<div class="hr"></div>	
 				<ul class="case-study-details">

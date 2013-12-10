@@ -12,9 +12,8 @@ $thisPage='portfolio';
 			<div id="left-col">
 				<h1>Case study</h1>	
 				<ul id="controls">
-					<li><a href="../pringles/" class="go-back" title="Previous Project"></a></li>
 					<li><a href="/portfolio.php" class="go-all" title="All Projects"></a></li>
-					<li><a href="../kpmg/" class="go-next" title="Next Project"></a></li>
+					<li><a href="../cadbury/advent-calendar" class="go-next" title="Next Project"></a></li>
 				</ul>
 				<div class="hr"></div>
 				<h2>Cadbury Cakes</h2>

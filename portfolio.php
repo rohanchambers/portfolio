@@ -26,6 +26,12 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 				</ul>	
 				<ul id="case-study">
 					<li class="all apps web">
+						<a href="case-study/hotelsdotcom/">
+							<img src="img/pages/portfolio/hotelsdotcom.jpg" alt="Hotels.com Photo competition">
+							<h3>Hotels.com<span>| Advent Calendar</span></h3>
+						</a>	
+					</li>					
+					<li class="all apps web">
 						<a href="case-study/cadbury/advent-calendar">
 							<img src="img/pages/portfolio/cadbury-advent-2.jpg" alt="Cadbury Advent Calendar">
 							<h3>Cadbury<span>| Advent Calendar</span></h3>

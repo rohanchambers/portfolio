@@ -16,7 +16,7 @@ $thisPage='portfolio';
 					<li><a href="../cadbury/advent-calendar" class="go-next" title="Next Project"></a></li>
 				</ul>
 				<div class="hr"></div>			
-				<h2>Hotels Photo competition</h2>
+				<h2>Hotels.com Photo competition</h2>
 				<ul class="case-study-details">
 					<li><strong>Date: </strong>December 2013</li>
 					<li><strong>Client: </strong>Hotels.com</li>	

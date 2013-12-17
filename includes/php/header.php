@@ -40,7 +40,7 @@
 			<nav role="navigation">
 				<ul>
 					<li<?php if ($classBody=="home") echo " class=\"currentpage\""; ?>><a href="/">Home <span>Welcome</span></a></li>
-					<li<?php if ($thisPage=="portfolio") echo " class=\"currentpage\""; ?>><a href="/portfolio">Portfolio <span>My work</span></a></li>
+					<li<?php if ($classBody=="portfolio") echo " class=\"currentpage\""; ?>><a href="/portfolio">Portfolio <span>My work</span></a></li>
 					<li<?php if ($classBody=="services") echo " class=\"currentpage\""; ?>><a href="/services">Services <span>What I do</span></a></li>
 					<li<?php if ($classBody=="contact") echo " class=\"currentpage\""; ?>><a href="/contact">Contact <span>Get in touch</span></a></li>
 					<li<?php if ($classBody=="blog") echo " class=\"currentpage\""; ?> class="last"><a href="http://blog.rohanchambers.net/">Blog <span>Various</span></a></li>

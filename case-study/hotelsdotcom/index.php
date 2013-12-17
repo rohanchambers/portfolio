@@ -2,7 +2,7 @@
 $author = 'Rohan Chambers';
 $browserDescription = 'This website is primarily designed to be an online portfolio presence for Rohan Chambers, a freelance Web Designer/Developer based in London, UK.';
 $browserKeywords = 'rohan chambers, rohan, chambers, freelance front end developer, front end developer, web designer, web development, xhtml, css, html5, css3, jquery, w3c, web standards';
-$browserTitle = 'Cadbury, Advent Calendar | RohanChambers.net';
+$browserTitle = 'Hotels.com Photo competition | RohanChambers.net';
 $classBody = 'case-study';
 $thisPage='portfolio';
 ?>

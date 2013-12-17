@@ -28,7 +28,7 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 					<li class="all apps web">
 						<a href="case-study/hotelsdotcom/">
 							<img src="img/pages/portfolio/hotelsdotcom.jpg" alt="Hotels.com Photo competition">
-							<h3>Hotels.com<span>| Advent Calendar</span></h3>
+							<h3>Hotels.com<span>| Photo Competition</span></h3>
 						</a>	
 					</li>					
 					<li class="all apps web">
@@ -159,7 +159,7 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 					</li>					
 					<li class="all apps">
 						<a href="case-study/tesco/tescoWines">
-							<img src="img/pages/portfolio/tescoWines.jpg" alt="Tesco Live Christmas Wine Tasting and Q&amp;A">
+							<img src="img/pages/portfolio/tescoWines.jpg" alt="Tesco Live Christmas Wine Tasting and Q &amp; A">
 							<h3>Tesco<span>| Live Xmas Wine Tasting</span></h3>
 						</a>	
 					</li>

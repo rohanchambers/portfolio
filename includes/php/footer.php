@@ -34,7 +34,7 @@
 						<li><a href="mailto:info@rohanchambers.net"><img src="/img/icons/mail.png" alt="mail" width="35" height="35" /></a></li>
 						<li><a href="http://www.linkedin.com/in/rohanchambers" class="targetBlank"><img src="/img/icons/linkedin.png" alt="linkedin" width="35" height="35" /></a></li>
 						<li><a href="http://www.twitter.com/rohanchambers" class="targetBlank"><img src="/img/icons/twitter.png" alt="twitter" width="35" height="35" /></a></li>
-						<li><a href="http://www.facebook.com/rohanchambers" class="targetBlank"><img src="/img/icons/facebook.png" alt="facebook" width="35" height="35" /></a></li>
+						<li><a href="http://www.facebook.com/rohchambers" class="targetBlank"><img src="/img/icons/facebook.png" alt="facebook" width="35" height="35" /></a></li>
 						<li><a href="http://www.rohanchambers.net/rss/rohanchambersnewsfeed.xml"><img src="/img/icons/rss.png" alt="rss" width="35" height="35" /></a></li>
 					</ul>
 					<div id="twitter">

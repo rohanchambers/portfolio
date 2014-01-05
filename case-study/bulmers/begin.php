@@ -1,6 +1,6 @@
 <?php
 $author = 'Rohan Chambers';
-$browserDescription = 'Join us in celebrating the launch of our new Limited Edition Collections range and you could win: &pound;1000 of Vouchers.';
+$browserDescription = 'Our competition is powered by your good times. The more Facebook posts and Tweets you share with us the more rewards we will unlock.';
 $browserKeywords = 'rohan chambers, rohan, chambers, freelance front end developer, front end developer, web designer, web development, xhtml, css, html5, css3, jquery, w3c, web standards';
 $browserTitle = 'Bulmers, Begin with a Bulmers | RohanChambers.net';
 $classBody = 'case-study';

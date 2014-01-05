@@ -4,7 +4,9 @@ $browserDescription = 'This website is primarily designed to be an online portfo
 $browserKeywords = 'rohan chambers, rohan, chambers, freelance front end developer, front end developer, london front end developer, html5 developer, web developer, web designer, html5, css3, responsive web design';
 $browserTitle = 'Rohan Chambers | London Freelance Front End Developer and Web Designer | HTML5 Developer, PSD to HTML5';
 $classBody = 'home';
-$ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
+$ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png';
+$googleVerify = 'O_EstnFbqzbLNjMIFBb3JlSbZqtFiwRyt3LVJUUd8LE'
+
 ?>
 <?php include("includes/php/header.php"); ?>
 		<div id="content" class="clearfix">

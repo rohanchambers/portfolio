@@ -8,17 +8,16 @@
 	<meta charset="utf-8">
 	<title><?=$browserTitle?></title>
 	<meta name="description" content="<?=$browserDescription?>" />
-	<meta name="keywords" content="<?=$browserKeywords?>" />	
+	<meta name="keywords" content="<?=$browserKeywords?>" />
+	
 	<meta name="robots" content="index, follow" />
 	<meta name="googlebot" content="index, follow" />
-	<meta name="author" content="Rohan Chambers" />	
-	<meta name="google-site-verification" content="<?=$googleVerify?>" />	
-	<meta property="og:image" content="<?=$ogtags?>" />	
+	<meta name="author" content="Rohan Chambers" />		
 
 	<meta name="viewport" content="width=device-width">
 	<link rel="shortcut icon" href="/favicon.ico" />  
 	<link type="text/css" rel="stylesheet" href="/includes/css/styles.min.css">
-	<script src="/includes/js/libs/modernizr-2.5.2.min.js"></script>	
+	<script src="/includes/js/libs/modernizr-2.5.2.min.js"></script>
 </head>
 
 <body class="<?=$classBody?>">

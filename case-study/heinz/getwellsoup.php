@@ -54,10 +54,10 @@ $thisPage='portfolio';
 						<img src="/img/pages/case-study/heinz/getwellsoup/buycan.jpg" alt="Heinz, Get Well Soup" />
 					</li>
 					<li>
-						<img src="/img/pages/case-study/heinz/getwellsoup/buycan_form" alt="Heinz, Get Well Soup" />
+						<img src="/img/pages/case-study/heinz/getwellsoup/buycan_form.jpg" alt="Heinz, Get Well Soup" />
 					</li>
 					<li>
-						<img src="/img/pages/case-study/heinz/getwellsoup/videoshare" alt="Heinz, Get Well Soup" />
+						<img src="/img/pages/case-study/heinz/getwellsoup/videoshare.jpg" alt="Heinz, Get Well Soup" />
 					</li>
 				</ul>
 			</div><!-- /#right-col -->

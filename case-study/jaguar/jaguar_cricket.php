@@ -38,7 +38,7 @@ $thisPage='portfolio';
 					</li>
 				</ul>				
 			</div>
-			
+
 			<div id="right-col">
 				<ul>
 					<li>

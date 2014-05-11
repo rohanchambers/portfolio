@@ -25,6 +25,18 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 					<li><a href="#" title="Freelance" class="freelance">Freelance</a></li>					
 				</ul>	
 				<ul id="case-study">
+					<li class="all web">
+						<a href="case-study/jaguar/livefearless">
+							<img src="img/pages/portfolio/jaguaruk_fearless.jpg" alt="Jaguar UK, Live Fearless">
+							<h3>Jaguar UK<span>| Live Fearless</span></h3>
+						</a>	
+					</li>
+					<li class="all apps">					
+						<a href="case-study/volvic/toughmudder">
+							<img src="img/pages/portfolio/toughmudder.jpg" alt="Toughmudder, Got the bottle">
+							<h3>Vovlic, Toughmudder<span>| Got the bottle</span></h3>
+						</a>	
+					</li>					
 					<li class="all apps">
 						<a href="case-study/heinz/getwellsoup">
 							<img src="img/pages/portfolio/getwellsoup.jpg" alt="Heinz Get Well Soup">

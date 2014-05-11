@@ -525,7 +525,7 @@ font-family: 'rockwell', Arial, Helvetica, Verdana; text-transform: uppercase;}
 	#left-col h2, #right-col h2 { margin-top: 50px; clear: both;}
 	#left-col h2 { float: left;}
 	#right-col h3 { font-size: 6em; font-weight: normal!important; margin-top: 10px;}
-	
+
 	footer { background: url(../../img/global/bg-footer.jpg);}
 	footer h2 { font-size: 6em;}
 	#tweet { width: 400px; font-size: 4.5em;}

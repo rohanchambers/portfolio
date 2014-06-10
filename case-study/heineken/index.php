@@ -2,7 +2,7 @@
 $author = 'Rohan Chambers';
 $browserDescription = 'This website is primarily designed to be an online portfolio presence for Rohan Chambers, a freelance Web Designer/Developer based in London, UK.';
 $browserKeywords = 'rohan chambers, rohan, chambers, freelance front end developer, front end developer, web designer, web development, xhtml, css, html5, css3, jquery, w3c, web standards';
-$browserTitle = 'Heineken, The Beauty of Beer | RohanChambers.net';
+$browserTitle = 'Heineken, The Beauty of Brewing | RohanChambers.net';
 $classBody = 'case-study';
 $thisPage='portfolio';
 ?>
@@ -16,18 +16,18 @@ $thisPage='portfolio';
 					<li><a href="../volvic/toughmudder" class="go-next" title="Next Project"></a></li>
 				</ul>
 				<div class="hr"></div>			
-				<h2>Heineken, The Beauty of Beer</h2>
+				<h2>Heineken, The Beauty of Brewing</h2>
 				<ul class="case-study-details">
 					<li><strong>Date: </strong>May 2014</li>
 					<li><strong>Client: </strong>Heineken</li>	
 					<li><strong>Agency: </strong><a href="http://www.wearesocial.net/" class="targetBlank">We Are Social</a></li>								
-					<li><strong>Technologies: </strong>HTML5, CSS3, jQuery, Skrollr plugin, Canvas tag, Require JS,  CSS transitions</li>	
+					<li><strong>Technologies: </strong>HTML5, CSS3, jQuery, Skrollr plugin, Canvas, CSS transitions</li>	
 					<li><strong>Tasks:</strong> Front end development of app.</li>			
 					<li><strong>Summary: </strong></li>
 					<li>
 						<p></p>
 					</li>
-					<li><strong>View site:</strong> <a href="http://jaguaruk.tumblr.com" class="targetBlank">http://jaguaruk.tumblr.com</a></li>
+					<li><strong>View site:</strong> <a href="http://heineken.co.uk/beautyofbrewing" class="targetBlank">http://heineken.co.uk/beautyofbrewing</a></li>
 				</ul>
 				<div class="hr"></div>	
 				<ul class="case-study-details">
@@ -41,7 +41,7 @@ $thisPage='portfolio';
 			<div id="right-col">
 				<ul>
 					<li>
-						<img src="/img/pages/case-study/heineken/beautyofbeer/home.jpg" alt="Heineken, The Beauty of Beer" />
+						<img src="/img/pages/case-study/heineken/beautyofbeer/home.jpg" alt="Heineken, The Beauty of Brewing" />
 					</li>
 				</ul>
 			</div><!-- /#right-col -->

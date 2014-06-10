@@ -4,20 +4,20 @@
 		<a class="btn-nxt" href="#">Nxt</a>
 	</div>			
 	<ul id="carousel">
-<!-- 		<li>
-			<a href="case-study/heineken/beautyofbeer"><img src="../../img/pages/home/carousel/beautyofbeer.jpg" alt="Heineken, The Beauty of Beer" width="960" height="420" /></a>
-			<div class="captions">
-			    <h3>Heineken, The Beauty of Beer</h3>
-			    <p>I developed most of the front end build for Jaguar, Live Fearless. This tumblr theme is fully responsive. The F-TYPE Coupé is Jaguar’s commitment to a life lived by harnessing fear. A hunger and desire to improve, to challenge and to find a better way.</p>
-			    <a class="find-more" href="case-study/heineken/beautyofbeer">Find out more</a></p>
-			</div>													
-		</li>
- -->		<li>
+		<li>
 			<a href="case-study/jaguar/livefearless"><img src="../../img/pages/home/carousel/jaguar_livefearless.jpg" alt="Jaguar UK, Livefearless" width="960" height="420" /></a>
 			<div class="captions">
 			    <h3>Jaguar UK, Livefearless</h3>
 			    <p>I developed most of the front end build for Jaguar, Live Fearless. This tumblr theme is fully responsive. The F-TYPE Coupé is Jaguar’s commitment to a life lived by harnessing fear. A hunger and desire to improve, to challenge and to find a better way.</p>
 			    <a class="find-more" href="case-study/jaguar/livefearless">Find out more</a></p>
+			</div>													
+		</li>
+		<li>
+			<a href="case-study/heineken/"><img src="../../img/pages/home/carousel/beautyofbeer.jpg" alt="Heineken, The Beauty of Beer" width="960" height="420" /></a>
+			<div class="captions">
+			    <h3>Heineken, The Beauty of Beer</h3>
+			    <p>I developed most of the front end build for Jaguar, Live Fearless. This tumblr theme is fully responsive. The F-TYPE Coupé is Jaguar’s commitment to a life lived by harnessing fear. A hunger and desire to improve, to challenge and to find a better way.</p>
+			    <a class="find-more" href="case-study/heineken/">Find out more</a></p>
 			</div>													
 		</li>
 		<li>

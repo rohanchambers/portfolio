@@ -25,13 +25,13 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 					<li><a href="#" title="Freelance" class="freelance">Freelance</a></li>					
 				</ul>	
 				<ul id="case-study">
-<!-- 					<li class="all web">
-						<a href="case-study/heineken/beautyofbeer/">
+					<li class="all web">
+						<a href="case-study/heineken/beautyofbrewing/">
 							<img src="img/pages/portfolio/beautyofbeer.jpg" alt="Heineken, Beauty of beer">
-							<h3>Heineken<span>| Beauty of Beer</span></h3>
+							<h3>Heineken<span>| Beauty of Brewing</span></h3>
 						</a>	
 					</li>
- -->					<li class="all web">
+					<li class="all web">
 						<a href="case-study/jaguar/livefearless">
 							<img src="img/pages/portfolio/jaguaruk_fearless.jpg" alt="Jaguar UK, Live Fearless">
 							<h3>Jaguar UK<span>| Live Fearless</span></h3>

@@ -26,9 +26,9 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 				</ul>	
 				<ul id="case-study">
 					<li class="all web">
-						<a href="case-study/heineken/beautyofbrewing/">
-							<img src="img/pages/portfolio/beautyofbeer.jpg" alt="Heineken, Beauty of beer">
-							<h3>Heineken<span>| Beauty of Brewing</span></h3>
+						<a href="case-study/heineken/">
+							<img src="img/pages/portfolio/beautyofbeer.jpg" alt="Heineken, Beauty of Brewing">
+							<h3>Heineken<span>| The Beauty of Brewing</span></h3>
 						</a>	
 					</li>
 					<li class="all web">

@@ -23,12 +23,19 @@ p { line-height: 1.1em;}
 	position: relative;
 }
 
-ul#carousel {
-	position: absolute;
-	left: 0;
+#carousel {
+            float: left;
+            display: inline;
+
+            transition-property: transform;
+            transition-duration: 0.5s;
+            transition-timing-function: ease-out;	
+                        /*apply a transform to kick in the hardware acceleration.  Without this, the first
+            time we add the transform you get odd rendering of the divs (half missing) */
+            transform: translate(0, 0);
 }
 
-	ul#carousel li {
+	#carousel li {
 		position: relative;
 		width: 800px;
 		height: 400px;	
@@ -37,6 +44,7 @@ ul#carousel {
 		list-style: none;
 		background: #000;
 		color: #FFF;
+		transform: translate(0, 0);
 	}
 
 	.slide-content {

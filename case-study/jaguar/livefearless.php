@@ -12,6 +12,7 @@ $thisPage='portfolio';
 			<div id="left-col">
 				<h1>Case study</h1>
 				<ul id="controls">			
+					<li><a href="../heineken/" class="go-back" title="Previous Project"></a></li>
 					<li><a href="/portfolio" class="go-all" title="All Projects"></a></li>
 					<li><a href="../volvic/toughmudder" class="go-next" title="Next Project"></a></li>
 				</ul>
@@ -25,7 +26,7 @@ $thisPage='portfolio';
 					<li><strong>Tasks:</strong> Tumblr theme creation and build</li>			
 					<li><strong>Summary: </strong></li>
 					<li>
-						<p>I developed most of the front end build for Jaguar, Live Fearless. This tumblr theme is fully responsive.</p>
+						<p>I helped develop the front end build for Jaguar, Live Fearless. This tumblr theme is fully responsive.</p>
 						<p>The F-TYPE Coupé is Jaguar’s commitment to a life lived by harnessing fear. A hunger and desire to improve, to challenge and to find a better way.</p>
 						<p>Join us to celebrate the extraordinary for your chance to win a week-long loan of the F-TYPE Coupé and an unforgettable Fearless experience.</p>
 					</li>

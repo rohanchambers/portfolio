@@ -13,7 +13,7 @@ $thisPage='portfolio';
 				<h1>Case study</h1>
 				<ul id="controls">			
 					<li><a href="/portfolio" class="go-all" title="All Projects"></a></li>
-					<li><a href="../volvic/toughmudder" class="go-next" title="Next Project"></a></li>
+					<li><a href="../jaguar/livefearless" class="go-next" title="Next Project"></a></li>
 				</ul>
 				<div class="hr"></div>			
 				<h2>Heineken, The Beauty of Brewing</h2>
@@ -21,11 +21,13 @@ $thisPage='portfolio';
 					<li><strong>Date: </strong>May 2014</li>
 					<li><strong>Client: </strong>Heineken</li>	
 					<li><strong>Agency: </strong><a href="http://www.wearesocial.net/" class="targetBlank">We Are Social</a></li>								
-					<li><strong>Technologies: </strong>HTML5, CSS3, jQuery, Skrollr plugin, Canvas, CSS transitions</li>	
+					<li><strong>Technologies: </strong>HTML5, CSS3, jQuery, Skrollr plugin, Canvas, CSS transitions, Fully responsive</li>	
 					<li><strong>Tasks:</strong> Front end development of app.</li>			
 					<li><strong>Summary: </strong></li>
 					<li>
-						<p></p>
+						<p>I helped develop Heinken's 'The Beauty of Brewing'. This is a parallax website that explains the story of how beer is made. It is broken down in to sections, each of being a vital ingredient to the brewing process Barley, Hops and Water.</p>
+						<p>I developed this site to be fully responsive for all major devices. There was a lot of interaction with the designer (Jacob Lee) on this project to get all the animations perfect as well as all the other design elements in the project.</p>
+						<p>The beauty of brewing is that it's a natural process, enhanced by craftsmanship to create the perfect beverage.</p>
 					</li>
 					<li><strong>View site:</strong> <a href="http://heineken.co.uk/beautyofbrewing" class="targetBlank">http://heineken.co.uk/beautyofbrewing</a></li>
 				</ul>

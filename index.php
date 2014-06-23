@@ -38,6 +38,7 @@ $classBody = 'home';
 		<header>
 			<div id="logo">
 				<a href="/">Rohan Chambers</a>
+				<img src="img/global/rohanchambers.jpg" alt="Rohan Chambers" />
 			</div>
 			<nav role="navigation">
 				<ul>
@@ -67,7 +68,7 @@ $classBody = 'home';
 			<section id="more">			
 				<div id="scroll"><a class="arrow-down" href="#skip-content" title="Skip to content"></a></div>
 				<div id="about">
-					<h1>Welcome to my online portfolio</h1>
+					<h1>Welcome to the online portfolio of <br>Rohan Chambers</h1>
 					<p>This <strong>website</strong> is primarily designed to be an online portfolio presence for <strong>Rohan Chambers</strong>, a <strong>Front-end Developer/Web Designer</strong> based in London, UK.
 					I am currently working as a <strong>Social Media Technologist (Front end)</strong> for an agency called <strong>We Are Social</strong>. Prior to this I was working full time at <strong>Playboy UK</strong> for 3 years as a web developer and continue to freelance on an occasional basis.</p>		
 					<p>Some of the <strong>Technologies</strong> used on this site and other <strong>Projects</strong> I have done include <strong>XHTML, CSS</strong> complemented by some Javascript, Jquery, PHP and Wordpress.
@@ -77,7 +78,7 @@ $classBody = 'home';
 					<h2>My skills:</h2>
 					<ul class="bullets">					
 						<li>XHTML - HTML5 (Advanced level)</li>
-						<li>CSS (2 & 3) (Advanced) level</li>
+						<li>CSS (2 &amp; 3) (Advanced) level</li>
 						<li>Clean HTML Semantic Mark-up</li>
 						<li>Responsive web design</li>
 						<li>iPhone/iPad Mobile Websites</li>

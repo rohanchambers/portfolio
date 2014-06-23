@@ -35,6 +35,7 @@
 		<header>
 			<div id="logo">
 				<a href="/">Rohan Chambers</a>
+				<img src="img/global/rohanchambers.jpg" alt="Rohan Chambers" />
 			</div>
 			<nav role="navigation">
 				<ul>

@@ -38,7 +38,7 @@ $classBody = 'home';
 		<header>
 			<div id="logo">
 				<a href="/">Rohan Chambers</a>
-				<img src="img/global/rohanchambers.jpg" alt="Rohan Chambers" />
+				<img src="img/global/rohanchambers.jpg" alt="Rohan Chambers" title="Rohan Chambers" />
 			</div>
 			<nav role="navigation">
 				<ul>

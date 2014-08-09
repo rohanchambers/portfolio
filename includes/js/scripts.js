@@ -174,7 +174,7 @@ SITE.LIGHTBOX = {
 		});
 
 		$('.lightbox-services').bind('click', function(){		
-								
+			
 			$(lightboxbg).fadeIn(speed, function(){
 				$('#lightbox-services').fadeIn('slow');		
 			});	

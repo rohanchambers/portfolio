@@ -28,7 +28,7 @@ $thisPage='portfolio';
 					<li>
 						<p>Fascinating intimate interviews with people that matter sharing their wisdom and experience. FLH is creating a library of new videos with the world's most admired personalities. Compelling and entertaining, these videos are designed to feed your mind and change the way you think about the world.</p>
 					</li>
-					<li><strong>View site:</strong> <a href="http://www.futurelifehappy.com/" class="targetBlank">www.futurelifehappy.com</a></li>
+					<li><strong>View site:</strong> <a href="http://www.futurelifehappy.co.uk/" class="targetBlank">www.futurelifehappy.co.uk/</a></li>
 				</ul>
 				<div class="hr"></div>	
 				<ul class="case-study-details">

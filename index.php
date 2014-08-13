@@ -107,7 +107,7 @@ $classBody = 'home';
 						<a href="get-a-quote" class="btn-global">Get a quote<span class="arrow"></span><span></span></a>																
 					</div>
 				</div>
-			</section><!-- /section #more -->	
+			</section><!-- /section #more  -->	
 								
 			<section id="what-i-do">			
 				<h2>To see what I do<br /> click below to find out more</h2>

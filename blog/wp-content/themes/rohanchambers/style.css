@@ -110,7 +110,6 @@ DESCRIPTION: Full width content with no sidebar; used for attachment pages
 h1, h2 { margin-bottom: 15px; color: #0074C0; font-family: Rockwell, Arial, Sans-serif;}
 #content h1 { font-size: 18px; color: #000!important;}
 
-
 /* Width of post */
 .post { display: block; float: left; clear: both; width: 640px;}
 
@@ -169,7 +168,6 @@ pre {
 code {
 	font-family: Helvetica, Verdana, Arial;
 }
-
 
 /* =Structure
 -------------------------------------------------------------- */

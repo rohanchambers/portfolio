@@ -3,11 +3,11 @@
 /* FuturaLT-CondensedBold */
 @font-face {
     font-family: 'FuturaLT-CondensedBold';
-    src: url('http://www.rohanchambers.net/fonts/FuturaLT-CondensedBold.eot');
-    src: url('http://www.rohanchambers.net/fonts/FuturaLT-CondensedBold.eot?#iefix') format('embedded-opentype'),
-         url('http://www.rohanchambers.net/fonts/FuturaLT-CondensedBold.woff') format('woff'),
-         url('http://www.rohanchambers.net/fonts/FuturaLT-CondensedBold.ttf') format('truetype'),
-         url('http://www.rohanchambers.net/fonts/FuturaLT-CondensedBold.svg#FuturaLT-CondensedBold') format('svg');
+    src: url('http://blog.rohanchambers.net/wp-content/themes/rohanchambers/fonts/FuturaLT-CondensedBold.eot');
+    src: url('http://blog.rohanchambers.net/wp-content/themes/rohanchambers/fonts/FuturaLT-CondensedBold.eot?#iefix') format('embedded-opentype'),
+         url('http://blog.rohanchambers.net/wp-content/themes/rohanchambers/fonts/FuturaLT-CondensedBold.woff') format('woff'),
+         url('http://blog.rohanchambers.net/wp-content/themes/rohanchambers/fonts/FuturaLT-CondensedBold.ttf') format('truetype'),
+         url('http://blog.rohanchambers.net/wp-content/themes/rohanchambers/fonts/FuturaLT-CondensedBold.svg#FuturaLT-CondensedBold') format('svg');
     font-weight: normal;
     font-style: normal;
 }

@@ -18,7 +18,7 @@ $thisPage='portfolio';
 				<div class="hr"></div>			
 				<h2>Heineken, The Beauty of Brewing</h2>
 				<ul class="case-study-details">
-					<li><strong>Date: </strong>June 2014</li>
+					<li><strong>Date: </strong>October 2015</li>
 					<li><strong>Client: </strong>Heineken</li>	
 					<li><strong>Agency: </strong><a href="http://www.wearesocial.net/" class="targetBlank">We Are Social</a></li>								
 					<li><strong>Technologies: </strong>HTML5, CSS3, jQuery, Skrollr plugin, Canvas, CSS transitions, Fully responsive</li>	

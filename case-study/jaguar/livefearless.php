@@ -19,7 +19,7 @@ $thisPage='portfolio';
 				<div class="hr"></div>			
 				<h2>Jaguar UK, Live Fearless</h2>
 				<ul class="case-study-details">
-					<li><strong>Date: </strong>May 2014</li>
+					<li><strong>Date: </strong>June 2015</li>
 					<li><strong>Client: </strong>Jaguar UK, Live Fearless</li>	
 					<li><strong>Agency: </strong><a href="http://www.wearesocial.net/" class="targetBlank">We Are Social</a></li>								
 					<li><strong>Technologies: </strong>HTML5, CSS3, JavaScript/jQuery, Fully responsive, Tumblr framework</li>	

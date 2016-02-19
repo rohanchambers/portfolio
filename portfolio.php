@@ -13,8 +13,7 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 				<h1>Portfolio</h1>
 				<p>I've had the pleasure of working with some great clients / agencies / companies over the years. 
 				<br>To name a few: Harrods, Playboy UK, Honda UK, EA Games, Debenhams, London 2012 Olympics, BBC, Wunderman, Elvis communications, Collective London and We Are Social. 
-				<br>Below are some of the more interesting projects I have worked on.</p>				
-				
+				<br>Below are some of the more interesting projects I have worked on.</p>
 				<h2>Filter by:</h2>
 				<ul id="filter-nav">
 					<li class="first active"><a href="#" title="All work" class="all">All work</a></li>
@@ -22,9 +21,15 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 					<li><a href="#" title="Facebook Apps." class="apps">Facebook Apps.</a></li>
 					<li><a href="#" title="Graphics" class="graphics">Graphics</a></li>
 					<li id="video"><a href="#" title="3D/Video" class="video">3D/Video</a></li>
-					<li><a href="#" title="Freelance" class="freelance">Freelance</a></li>					
-				</ul>	
+					<li><a href="#" title="Freelance" class="freelance">Freelance</a></li>
+				</ul>
 				<ul id="case-study">
+					<li class="all web freelance">
+						<a href="case-study/phoneresq/">
+							<img src="img/pages/portfolio/phoneresq.jpg" alt="Heineken, Beauty of Brewing">
+							<h3>PhoneResQ<span>| We repair and improve</span></h3>
+						</a>	
+					</li>
 					<li class="all web">
 						<a href="case-study/heineken/">
 							<img src="img/pages/portfolio/beautyofbeer.jpg" alt="Heineken, Beauty of Brewing">

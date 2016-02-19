@@ -2,7 +2,7 @@
 $author = 'Rohan Chambers';
 $browserDescription = 'This website is primarily designed to be an online portfolio presence for Rohan Chambers, a freelance Web Designer/Developer based in London, UK.';
 $browserKeywords = 'rohan chambers, rohan, chambers, freelance front end developer, front end developer, web designer, web development, xhtml, css, html5, css3, jquery, w3c, web standards';
-$browserTitle = 'PhoneResQ | RohanChambers.net';
+$browserTitle = 'Perfect Peaks Brews | RohanChambers.net';
 $classBody = 'case-study';
 $thisPage='portfolio';
 ?>
@@ -18,17 +18,16 @@ $thisPage='portfolio';
 				<div class="hr"></div>
 				<h2>PhoneResQ</h2>
 				<ul class="case-study-details">
-					<li><strong>Date: </strong>February 2015</li>
-					<li><strong>Client: </strong>PhoneResQ</li>	
+					<li><strong>Date: </strong>January 2016</li>
+					<li><strong>Client: </strong>Perfect Peaks Brews</li>	
 					<li><strong>Agency: </strong>Freelance</li>								
-					<li><strong>Technologies: </strong>HTML5, CSS3, jQuery, Wordpress, Bourbon + Neat responsive grid, Skrollr plugin, CSS3 transitions, Fully responsive, Font awesome.</li>
-					<li><strong>Tasks:</strong> Project manager, fully designed and fully developed Front &amp; back end using Wordpress</li>
+					<li><strong>Technologies: </strong>N/A</li>
+					<li><strong>Tasks:</strong> Project manager</li>
 					<li><strong>Summary: </strong></li>
 					<li>
-						<p>PhoneResQ is a privately owned business that repairs and improves all handheld devices and home computers. They needed a complete rebrand and fresh rebuild of their site.</p>
-						<p>I took on the project as a designer and developer as well as being project manager. I was working directly with the owners and other members of staff to complete all tasks from color scheme ideas to the intial design proposal to final deployment on to their servers. The site had to be fully responsive on all major mobiles, tablets and computers so a lot of cross browser testing was done.</p>
+	
 					</li>
-					<li><strong>View site:</strong> <a href="http://phoneresq.com/" class="targetBlank">http://phoneresq.com</a></li>
+					<li><strong>View site:</strong> N/A</li>
 				</ul>
 				<div class="hr"></div>	
 				<ul class="case-study-details">
@@ -42,7 +41,10 @@ $thisPage='portfolio';
 			<div id="right-col">
 				<ul>
 					<li>
-						<img src="/img/pages/case-study/phoneresq/phoneResq_home.jpg" alt="PhoneResQ" />
+						<img src="/img/pages/case-study/ppb/black.jpg" alt="PhoneResQ" />
+						<img src="/img/pages/case-study/ppb/variations.jpg" alt="PhoneResQ" />		
+						<img src="/img/pages/case-study/ppb/yellow.jpg" alt="PhoneResQ" />
+						<img src="/img/pages/case-study/ppb/turquoise.jpg" alt="PhoneResQ" />
 					</li>
 				</ul>
 			</div><!-- /#right-col -->

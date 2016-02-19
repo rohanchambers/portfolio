@@ -25,8 +25,14 @@ $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 				</ul>
 				<ul id="case-study">
 					<li class="all web freelance">
+						<a href="case-study/perfectPeaksBrews/">
+							<img src="img/pages/portfolio/ppb.jpg" alt="Heineken, Beauty of Brewing">
+							<h3>Perfect Peaks Brews<span></span></h3>
+						</a>	
+					</li>
+					<li class="all web freelance">
 						<a href="case-study/phoneresq/">
-							<img src="img/pages/portfolio/phoneresq.jpg" alt="Heineken, Beauty of Brewing">
+							<img src="img/pages/portfolio/phoneResq.jpg" alt="Heineken, Beauty of Brewing">
 							<h3>PhoneResQ<span>| We repair and improve</span></h3>
 						</a>	
 					</li>

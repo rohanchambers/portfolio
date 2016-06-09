@@ -35,7 +35,7 @@
 		<header>
 			<div id="logo">
 				<a href="/">Rohan Chambers</a>
-				<img src="img/global/rohanchambers.jpg" alt="Rohan Chambers" title="Rohan Chambers" />
+				<img src="http://rohanchambers.net/img/global/rohanchambers.jpg" alt="Rohan Chambers" title="Rohan Chambers" />
 			</div>
 			<nav role="navigation">
 				<ul>
@@ -46,13 +46,4 @@
 					<li<?php if ($classBody=="blog") echo " class=\"currentpage\""; ?> class="last"><a href="http://blog.rohanchambers.net/">Blog <span>Various</span></a></li>
 				</ul>
 			</nav>
-			<div id="sharethis">
-				<span class='st_fblike'></span>			
-				<span class='st_sharethis'></span>
-				<span class='st_facebook'></span>
-				<span class='st_twitter'></span>
-				<span class='st_googleplus'></span>
-				<span class='st_email'></span>			
-			</div>
-			<!-- AddThis Button END -->
 		</header><!-- /header -->

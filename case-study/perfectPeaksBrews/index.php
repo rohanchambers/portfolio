@@ -16,35 +16,32 @@ $thisPage='portfolio';
 					<li><a href="../heineken/" class="go-next" title="Next Project"></a></li>
 				</ul>
 				<div class="hr"></div>
-				<h2>PhoneResQ</h2>
+				<h2>Perfect Peaks Brews</h2>
 				<ul class="case-study-details">
-					<li><strong>Date: </strong>January 2016</li>
+					<li><strong>Date: </strong>2016</li>
 					<li><strong>Client: </strong>Perfect Peaks Brews</li>	
 					<li><strong>Agency: </strong>Freelance</li>								
-					<li><strong>Technologies: </strong>N/A</li>
-					<li><strong>Tasks:</strong> Project manager</li>
+					<li><strong>Technologies: </strong>HTML5, CSS3, jQuery, Grunt, Wordpress, Bourbon + Neat responsive grid, CSS3 transitions, Fully responsive, Font awesome.</li>
+					<li><strong>Tasks:</strong> <p>Project owner and managed a team of graphic and web designers to create the new brand identity of 'Perfect Peaks Brews'. I fully developed the front-end and Wordpress integration of the site.</p></li>
 					<li><strong>Summary: </strong></li>
-					<li>
-	
+					<li>	
+						<p>Perfect Peaks Brews is a privately owned startup brewery in Switzerland, Geneva that produces 6 blends of Ale and soon to be 3 Ciders.</p> 
+						<p>The target audience of this beer is for the snow sports fans who after a hard days work can kick back with a cold brew. It will be sold in the winter on all major ski resorts in Switzerland and France.</p> 
+						<p>During the summer the other blends will mainly be for the surfer and water sports fan, again to kick back with a cold brew... It will be sold mainly in Portugal but also Ibiza and the South of France.</p>
 					</li>
-					<li><strong>View site:</strong> N/A</li>
+					<li><strong>View site:</strong> Coming soon</li>
 				</ul>
-				<div class="hr"></div>	
-				<ul class="case-study-details">
-					<li><strong>Share this:</strong></li>
-					<li>
-						<?php include("../../includes/php/sharethis.php"); ?>						
-					</li>
-				</ul>				
+				<div class="hr"></div>			
 			</div>
 			
 			<div id="right-col">
 				<ul>
 					<li>
-						<img src="/img/pages/case-study/ppb/black.jpg" alt="PhoneResQ" />
-						<img src="/img/pages/case-study/ppb/variations.jpg" alt="PhoneResQ" />		
-						<img src="/img/pages/case-study/ppb/yellow.jpg" alt="PhoneResQ" />
-						<img src="/img/pages/case-study/ppb/turquoise.jpg" alt="PhoneResQ" />
+						<img src="/img/pages/case-study/ppb/logo_large.jpg" alt="Perfect Peaks Brews" />
+						<img src="/img/pages/case-study/ppb/black.jpg" alt="Perfect Peaks Brews" />
+						<img src="/img/pages/case-study/ppb/yellow.jpg" alt="Perfect Peaks Brews" />
+						<img src="/img/pages/case-study/ppb/turquoise.jpg" alt="Perfect Peaks Brews" />
+						<img src="/img/pages/case-study/ppb/variations.jpg" alt="Perfect Peaks Brews" />						
 					</li>
 				</ul>
 			</div><!-- /#right-col -->

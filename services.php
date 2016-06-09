@@ -6,6 +6,11 @@ $browserTitle = 'Services | RohanChambers.net';
 $classBody = 'services';
 $ogtags = 'http://www.rohanchambers.net/img/global/fb_logo.png'
 ?>
+<style>
+	.bullets li .star-rating {
+		display: none;
+	}
+</style>
 <?php include("includes/php/header.php"); ?>
 		<div id="content" class="clearfix">		
 			<section id="services">

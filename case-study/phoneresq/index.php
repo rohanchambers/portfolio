@@ -13,7 +13,7 @@ $thisPage='portfolio';
 				<h1>Case study</h1>
 				<ul id="controls">
 					<li><a href="/portfolio" class="go-all" title="All Projects"></a></li>
-					<li><a href="../heineken/" class="go-next" title="Next Project"></a></li>
+					<li><a href="../perfectPeaksBrews/" class="go-next" title="Next Project"></a></li>
 				</ul>
 				<div class="hr"></div>
 				<h2>PhoneResQ</h2>
